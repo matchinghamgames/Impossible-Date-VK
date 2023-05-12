@@ -1,0 +1,729 @@
+{
+"skeleton": {
+	"hash": "VK7+fQFN793rCP0WxTPdfjvmBG0",
+	"spine": "3.8.84",
+	"x": -342.63,
+	"y": 11.01,
+	"width": 739.25,
+	"height": 1098.94,
+	"images": "./LV33_RUJ/images/",
+	"audio": ""
+},
+"bones": [
+	{ "name": "root", "x": -0.06, "y": -0.02 },
+	{ "name": "adam_bone", "parent": "root", "x": 233.82, "y": -66.4, "color": "0d00ffff" },
+	{ "name": "AdamGovde", "parent": "adam_bone", "length": 772.68, "rotation": 90.3, "x": 11.51, "y": 78.97 },
+	{
+		"name": "AdamKafa",
+		"parent": "AdamGovde",
+		"length": 240.63,
+		"rotation": 0.41,
+		"x": 786.63,
+		"y": 4.31,
+		"transform": "noScale"
+	},
+	{ "name": "AdamSolKas", "parent": "AdamKafa", "length": 45.61, "rotation": 72.65, "x": 149.37, "y": -10.7 },
+	{ "name": "AdamSagKas", "parent": "AdamKafa", "length": 39.3, "rotation": -62.67, "x": 146.64, "y": 96.56 },
+	{ "name": "AdamGoz", "parent": "AdamKafa", "x": 101.68, "y": 139.02 },
+	{ "name": "RujIzi", "parent": "AdamGovde", "rotation": -90.3, "x": 650.32, "y": -27.74 },
+	{ "name": "kadin_bone", "parent": "root", "x": -237.56, "y": -50.96 },
+	{ "name": "KadinGovde", "parent": "kadin_bone", "length": 784.55, "rotation": 88.19, "x": -12.53, "y": 68.83 },
+	{
+		"name": "KadinKafaV2",
+		"parent": "KadinGovde",
+		"length": 268.35,
+		"rotation": 1.25,
+		"x": 749.42,
+		"y": 0.19,
+		"transform": "noScale"
+	},
+	{ "name": "KadinSolKas", "parent": "KadinKafaV2", "length": 55.49, "rotation": -100.75, "x": 169.23, "y": 8.19 },
+	{ "name": "KadinSagKas", "parent": "KadinKafaV2", "length": 26.07, "rotation": 96.08, "x": 161.8, "y": -89 },
+	{ "name": "KadinGoz", "parent": "KadinKafaV2", "x": 102.09, "y": -134.9 },
+	{
+		"name": "kalp_master",
+		"parent": "root",
+		"length": 88.31,
+		"x": -73.61,
+		"y": 996.63,
+		"scaleX": -1,
+		"color": "f70000ff"
+	},
+	{ "name": "kalp01", "parent": "kalp_master", "x": 29.21, "y": 66.84 },
+	{ "name": "kalp02", "parent": "kalp_master", "x": 29.21, "y": 66.84 }
+],
+"slots": [
+	{ "name": "kalp01", "bone": "kalp01", "attachment": "GERCEK_ASK_LEVEL" },
+	{ "name": "kalp02", "bone": "kalp02", "attachment": "GERCEK_ASK_LEVEL" },
+	{ "name": "AdamGovde", "bone": "AdamGovde", "attachment": "AdamGovde" },
+	{ "name": "RujIzi", "bone": "RujIzi", "attachment": "RujIzi" },
+	{ "name": "Kaskol", "bone": "AdamGovde", "attachment": "Kaskol" },
+	{ "name": "AdamKafa", "bone": "AdamKafa", "attachment": "AdamKafa" },
+	{ "name": "AdamGozBeyaz2", "bone": "AdamKafa", "attachment": "AdamGozBeyaz" },
+	{ "name": "AdamGoz", "bone": "AdamGoz", "attachment": "AdamGoz" },
+	{ "name": "AdamGozMaske2", "bone": "AdamKafa", "attachment": "AdamGozMaske" },
+	{ "name": "AdamSolKas", "bone": "AdamSolKas", "attachment": "AdamSolKas" },
+	{ "name": "AdamSagKas", "bone": "AdamSagKas", "attachment": "AdamSagKas" },
+	{ "name": "AdamAgizMutsuz", "bone": "AdamKafa", "attachment": "AdamAgizGulumseme" },
+	{ "name": "AdamBurun", "bone": "AdamKafa", "attachment": "AdamBurun" },
+	{ "name": "KadinGovde", "bone": "KadinGovde", "attachment": "KadinGovde" },
+	{ "name": "KadinKafaV2", "bone": "KadinKafaV2", "attachment": "KadinKafa" },
+	{ "name": "KadinGozBeyaz", "bone": "KadinKafaV2", "attachment": "KadinGozBeyaz" },
+	{ "name": "KadinGozAcik", "bone": "KadinKafaV2", "attachment": "KadinGozAcik" },
+	{ "name": "KadinGoz", "bone": "KadinGoz", "attachment": "KadinGoz" },
+	{ "name": "KadinBurunV2", "bone": "KadinKafaV2", "attachment": "KadinBurun" },
+	{ "name": "KadinAgizGulumseme", "bone": "KadinKafaV2", "attachment": "KadinAgizMutsuz" },
+	{ "name": "KadinSagKas", "bone": "KadinSagKas", "attachment": "KadinSagKas" },
+	{ "name": "KadinSolKas", "bone": "KadinSolKas", "attachment": "KadinSolKas" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"AdamAgizMutsuz": {
+				"AdamAgizBagirma": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ -11.04, 20.9, -10.2, 88.9, 36.8, 88.32, 35.96, 20.32 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 68,
+					"height": 47
+				},
+				"AdamAgizGulen": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ -1.99, 25.29, -1.26, 84.29, 27.74, 83.93, 27.01, 24.93 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 59,
+					"height": 29
+				},
+				"AdamAgizGulumseme": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ -5.25, 9.15, -4.5, 70.14, 48.5, 69.49, 47.74, 8.49 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 61,
+					"height": 53
+				},
+				"AdamAgizIgrenme": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ -10.45, 28.4, -9.79, 81.39, 36.2, 80.82, 35.55, 27.83 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 53,
+					"height": 46
+				},
+				"AdamAgizMutsuz": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 2.06, 28.74, 2.7, 80.74, 23.7, 80.48, 23.06, 28.48 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 52,
+					"height": 21
+				},
+				"AdamAgizOpucuk": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ -2.82, 38.3, -2.42, 71.3, 28.58, 70.92, 28.17, 37.92 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 33,
+					"height": 31
+				},
+				"AdamAgizSasirma": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ -13.52, 22.43, -12.72, 87.43, 39.28, 86.79, 38.47, 21.79 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 36,
+					"height": 52
+				},
+				"AdamAgizSasirma2": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ -13.34, 36.93, -12.9, 72.93, 39.1, 72.29, 38.65, 36.29 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 65,
+					"height": 52
+				},
+				"AdamAgizSiritma3": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ -16.61, 14.97, -15.63, 94.96, 42.37, 94.25, 41.38, 14.25 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 80,
+					"height": 58
+				}
+			},
+			"AdamBurun": {
+				"AdamBurun": { "x": 77.02, "y": 65.32, "rotation": -90.71, "width": 37, "height": 81 }
+			},
+			"AdamGovde": {
+				"AdamGovde": { "x": 408.89, "y": -13.99, "rotation": -90.3, "width": 279, "height": 821 }
+			},
+			"AdamGoz": {
+				"AdamGoz": { "x": -1.36, "y": -74.49, "rotation": -90.71, "width": 86, "height": 31 },
+				"AdamGozKalp": { "x": -5.83, "y": -79.58, "rotation": -90.71, "width": 124, "height": 40 }
+			},
+			"AdamGozBeyaz2": {
+				"AdamGozBeyaz": { "x": 103.35, "y": 48.09, "rotation": -90.71, "width": 120, "height": 95 },
+				"AdamGozKapali": { "x": 103.35, "y": 48.09, "rotation": -90.71, "width": 121, "height": 92 }
+			},
+			"AdamGozMaske2": {
+				"AdamGozMaske": { "x": 105.35, "y": 51.97, "rotation": -90.71, "width": 126, "height": 90 },
+				"AdamGozMaske2": { "x": 105.35, "y": 51.97, "rotation": -90.71, "width": 125, "height": 90 }
+			},
+			"AdamKafa": {
+				"AdamKafa": { "x": 106.8, "y": 6.95, "rotation": -90.71, "width": 213, "height": 262 }
+			},
+			"AdamSagKas": {
+				"AdamSagKas": { "x": 18.51, "y": -1.62, "rotation": -28.03, "width": 39, "height": 28 },
+				"AdamSagKasKizgin": { "x": 7.47, "y": -34.1, "rotation": -28.03, "width": 43, "height": 30 },
+				"AdamSagKasUzgun": { "x": 13.52, "y": -16.36, "rotation": -28.03, "width": 43, "height": 39 }
+			},
+			"AdamSolKas": {
+				"AdamSolKas": { "x": 21.44, "y": 2.01, "rotation": -163.35, "width": 55, "height": 28 },
+				"AdamSolKasKizgin": { "x": 21.44, "y": 2.01, "rotation": -163.35, "width": 73, "height": 33 },
+				"AdamSolKasUzgun": { "x": 21.44, "y": 2.01, "rotation": -163.35, "width": 54, "height": 39 }
+			},
+			"KadinAgizGulumseme": {
+				"KadinAgizBagirma": { "x": 36.51, "y": -42, "rotation": -89.44, "width": 72, "height": 68 },
+				"KadinAgizDudakIsirma": { "x": 36.51, "y": -42, "rotation": -89.44, "width": 72, "height": 66 },
+				"KadinAgizDudakIsirmaUzgun": { "x": 36.51, "y": -42, "rotation": -89.44, "width": 66, "height": 24 },
+				"KadinAgizGulumseme": { "x": 36.51, "y": -42, "rotation": -89.44, "width": 54, "height": 56 },
+				"KadinAgizKahkaha": { "x": 36.51, "y": -42, "rotation": -89.44, "width": 75, "height": 79 },
+				"KadinAgizMutsuz": { "x": 36.51, "y": -42, "rotation": -89.44, "width": 56, "height": 27 }
+			},
+			"KadinBurunV2": {
+				"KadinBurun": { "x": 80.82, "y": -73.57, "rotation": -89.44, "width": 28, "height": 42 },
+				"KadinBurunV2": { "x": 80.82, "y": -73.57, "rotation": -89.44, "width": 28, "height": 42 }
+			},
+			"KadinGovde": {
+				"KadinGovde": { "x": 386.45, "y": -19.12, "rotation": -88.19, "width": 197, "height": 771 }
+			},
+			"KadinGoz": {
+				"KadinGoz": { "x": 5.74, "y": 71.19, "rotation": -89.44, "width": 85, "height": 34 },
+				"KadinGozIgrenme": { "x": 5.74, "y": 71.19, "rotation": -89.44, "width": 81, "height": 34 }
+			},
+			"KadinGozAcik": {
+				"KadinGozAcik": { "x": 109.54, "y": -44.79, "rotation": -89.44, "width": 143, "height": 84 },
+				"KadinGozKapali": { "x": 109.54, "y": -44.79, "rotation": -89.44, "width": 139, "height": 84 },
+				"KadinGozMaske": { "x": 109.54, "y": -44.79, "rotation": -89.44, "width": 143, "height": 84 },
+				"KadinGozMaske2": { "x": 109.54, "y": -44.79, "rotation": -89.44, "width": 143, "height": 84 }
+			},
+			"KadinGozBeyaz": {
+				"KadinGozBeyaz": { "x": 109.67, "y": -57.79, "rotation": -89.44, "width": 129, "height": 84 }
+			},
+			"KadinKafaV2": {
+				"KadinKafa": { "x": 108.79, "y": -14.48, "rotation": -89.44, "width": 263, "height": 275 },
+				"KadinKafaV2": { "x": 108.58, "y": 3.2, "rotation": -89.44, "width": 353, "height": 275 }
+			},
+			"KadinSagKas": {
+				"KadinSagKas": { "x": 9.84, "y": 0.89, "rotation": 174.47, "width": 29, "height": 14 }
+			},
+			"KadinSolKas": {
+				"KadinSolKas": { "x": 22.89, "y": -2.77, "rotation": 11.31, "width": 72, "height": 20 }
+			},
+			"Kaskol": {
+				"Kaskol": { "x": 648.89, "y": -13.74, "rotation": -90.3, "width": 142, "height": 293 }
+			},
+			"RujIzi": {
+				"RujIzi": { "width": 58, "height": 54 }
+			},
+			"kalp01": {
+				"GERCEK_ASK_LEVEL": { "width": 90, "height": 93 }
+			},
+			"kalp02": {
+				"GERCEK_ASK_LEVEL": { "width": 90, "height": 93 }
+			}
+		}
+	}
+],
+"animations": {
+	"01_idle_atkisiz": {
+		"slots": {
+			"AdamSagKas": {
+				"attachment": [
+					{ "name": "AdamSagKasUzgun" }
+				]
+			},
+			"KadinAgizGulumseme": {
+				"attachment": [
+					{ "name": "KadinAgizGulumseme" }
+				]
+			},
+			"Kaskol": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"kalp01": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.0667, "name": "GERCEK_ASK_LEVEL" },
+					{ "time": 0.9, "name": null },
+					{ "time": 1.3667, "name": "GERCEK_ASK_LEVEL" },
+					{ "time": 2.2, "name": null }
+				]
+			},
+			"kalp02": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.2, "name": "GERCEK_ASK_LEVEL" },
+					{ "time": 1.2333, "name": null },
+					{ "time": 1.5, "name": "GERCEK_ASK_LEVEL" },
+					{ "time": 2.5333, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"AdamSagKas": {
+				"rotate": [
+					{ "angle": -19.5 }
+				],
+				"translate": [
+					{ "x": 18.88, "y": 2.55 },
+					{ "time": 0.8333, "x": 14.71, "y": 2.6 },
+					{ "time": 1.6667, "x": 18.88, "y": 2.55 },
+					{ "time": 2.5, "x": 14.71, "y": 2.6 },
+					{ "time": 3.3333, "x": 18.88, "y": 2.55 }
+				]
+			},
+			"KadinKafaV2": {
+				"translate": [
+					{ "x": -0.71, "y": -0.02 },
+					{ "time": 0.2333 },
+					{ "time": 1.0667, "x": -3.77, "y": -0.12 },
+					{ "time": 1.6667, "x": -0.71, "y": -0.02 },
+					{ "time": 1.9 },
+					{ "time": 2.7333, "x": -3.77, "y": -0.12 },
+					{ "time": 3.3333, "x": -0.71, "y": -0.02 }
+				]
+			},
+			"kalp01": {
+				"rotate": [
+					{ "angle": 26.47 },
+					{ "time": 0.2667, "angle": 11.37 },
+					{ "time": 0.6, "angle": -15.6 },
+					{ "time": 0.9333, "angle": -49.56, "curve": "stepped" },
+					{ "time": 1.2667, "angle": -49.56 },
+					{ "time": 1.3, "angle": 26.47 },
+					{ "time": 1.5667, "angle": 11.37 },
+					{ "time": 1.9, "angle": -15.6 },
+					{ "time": 2.2333, "angle": -49.56 }
+				],
+				"translate": [
+					{ "x": 17.34, "y": -47.93 },
+					{ "time": 0.2667, "x": -15.01, "y": 44.38 },
+					{ "time": 0.6, "x": -19.58, "y": 132.91 },
+					{ "time": 0.9333, "y": 197.48, "curve": "stepped" },
+					{ "time": 1.2667, "y": 197.48 },
+					{ "time": 1.3, "x": 17.34, "y": -47.93 },
+					{ "time": 1.5667, "x": -15.01, "y": 44.38 },
+					{ "time": 1.9, "x": -19.58, "y": 132.91 },
+					{ "time": 2.2333, "y": 197.48 }
+				],
+				"scale": [
+					{ "x": 0.057, "y": 0.057 },
+					{ "time": 0.2667, "x": 0.787, "y": 0.787 },
+					{ "time": 0.6, "x": 0.802, "y": 0.802 },
+					{ "time": 0.9333, "x": 0.01, "y": 0.01, "curve": "stepped" },
+					{ "time": 1.2667, "x": 0.01, "y": 0.01 },
+					{ "time": 1.3, "x": 0.057, "y": 0.057 },
+					{ "time": 1.5667, "x": 0.787, "y": 0.787 },
+					{ "time": 1.9, "x": 0.802, "y": 0.802 },
+					{ "time": 2.2333, "x": 0.01, "y": 0.01 }
+				]
+			},
+			"kalp02": {
+				"rotate": [
+					{ "angle": 26.47, "curve": "stepped" },
+					{ "time": 0.1333, "angle": 26.47 },
+					{ "time": 0.4667, "angle": 11.37 },
+					{ "time": 0.8667, "angle": -15.6 },
+					{ "time": 1, "angle": -28.92 },
+					{ "time": 1.2667, "angle": -18.23 },
+					{ "time": 1.3, "angle": 26.47, "curve": "stepped" },
+					{ "time": 1.4333, "angle": 26.47 },
+					{ "time": 1.7667, "angle": 11.37 },
+					{ "time": 2.1667, "angle": -15.6 },
+					{ "time": 2.3, "angle": -28.92 },
+					{ "time": 2.5667, "angle": -18.23 }
+				],
+				"translate": [
+					{ "x": 7.14, "y": -77.51, "curve": "stepped" },
+					{ "time": 0.1333, "x": 7.14, "y": -77.51 },
+					{ "time": 0.4667, "x": -35.4, "y": -10.69 },
+					{ "time": 0.8667, "x": -62.41, "y": 81.92 },
+					{ "time": 1, "x": -59.43, "y": 128 },
+					{ "time": 1.2667, "x": -62.21, "y": 217.88 },
+					{ "time": 1.3, "x": 7.14, "y": -77.51, "curve": "stepped" },
+					{ "time": 1.4333, "x": 7.14, "y": -77.51 },
+					{ "time": 1.7667, "x": -35.4, "y": -10.69 },
+					{ "time": 2.1667, "x": -62.41, "y": 81.92 },
+					{ "time": 2.3, "x": -59.43, "y": 128 },
+					{ "time": 2.5667, "x": -62.21, "y": 217.88 }
+				],
+				"scale": [
+					{ "x": 0.057, "y": 0.057, "curve": "stepped" },
+					{ "time": 0.1333, "x": 0.057, "y": 0.057 },
+					{ "time": 0.4667, "x": 0.787, "y": 0.787 },
+					{ "time": 0.8667, "x": 0.802, "y": 0.802 },
+					{ "time": 1.2667, "x": 0.01, "y": 0.01 },
+					{ "time": 1.3, "x": 0.057, "y": 0.057, "curve": "stepped" },
+					{ "time": 1.4333, "x": 0.057, "y": 0.057 },
+					{ "time": 1.7667, "x": 0.787, "y": 0.787 },
+					{ "time": 2.1667, "x": 0.802, "y": 0.802 },
+					{ "time": 2.5667, "x": 0.01, "y": 0.01 }
+				]
+			},
+			"AdamGovde": {
+				"scale": [
+					{},
+					{ "time": 0.8333, "x": 0.969 },
+					{ "time": 1.6667 },
+					{ "time": 2.5, "x": 0.969 },
+					{ "time": 3.3333 }
+				]
+			},
+			"KadinGovde": {
+				"scale": [
+					{},
+					{ "time": 0.8333, "x": 0.979 },
+					{ "time": 1.6667 },
+					{ "time": 2.5, "x": 0.979 },
+					{ "time": 3.3333 }
+				]
+			},
+			"KadinSolKas": {
+				"translate": [
+					{},
+					{ "time": 0.8333, "x": -6.45, "y": -0.06 },
+					{ "time": 1.6667 },
+					{ "time": 2.5, "x": -6.45, "y": -0.06 },
+					{ "time": 3.3333 }
+				]
+			},
+			"KadinSagKas": {
+				"translate": [
+					{},
+					{ "time": 0.8333, "x": -6.45, "y": -0.06 },
+					{ "time": 1.6667 },
+					{ "time": 2.5, "x": -6.45, "y": -0.06 },
+					{ "time": 3.3333 }
+				]
+			},
+			"AdamKafa": {
+				"rotate": [
+					{},
+					{ "time": 0.7, "angle": 2.18 },
+					{ "time": 1.6667 },
+					{ "time": 2.3667, "angle": 2.18 },
+					{ "time": 3.3333 }
+				],
+				"translate": [
+					{ "x": -0.35 },
+					{ "time": 0.2 },
+					{ "time": 1.0333, "x": -2.21, "y": 0.01 },
+					{ "time": 1.6667, "x": -0.35 },
+					{ "time": 1.8667 },
+					{ "time": 2.7, "x": -2.21, "y": 0.01 },
+					{ "time": 3.3333, "x": -0.35 }
+				]
+			},
+			"AdamSolKas": {
+				"translate": [
+					{ "x": 4.25, "y": -0.75 },
+					{ "time": 0.8333, "x": 0.08, "y": -0.7 },
+					{ "time": 1.6667, "x": 4.25, "y": -0.75 },
+					{ "time": 2.5, "x": 0.08, "y": -0.7 },
+					{ "time": 3.3333, "x": 4.25, "y": -0.75 }
+				]
+			}
+		}
+	},
+	"02_Son": {
+		"slots": {
+			"AdamAgizMutsuz": {
+				"attachment": [
+					{ "time": 0.6, "name": "AdamAgizSasirma2" },
+					{ "time": 0.8333, "name": "AdamAgizBagirma" }
+				]
+			},
+			"AdamGoz": {
+				"attachment": [
+					{ "time": 0.6, "name": null },
+					{ "time": 0.8333, "name": "AdamGoz" }
+				]
+			},
+			"AdamGozBeyaz2": {
+				"attachment": [
+					{ "time": 0.6, "name": "AdamGozKapali" },
+					{ "time": 0.8333, "name": "AdamGozBeyaz" }
+				]
+			},
+			"AdamGozMaske2": {
+				"attachment": [
+					{ "time": 0.6, "name": null }
+				]
+			},
+			"AdamSagKas": {
+				"attachment": [
+					{ "name": "AdamSagKasUzgun" }
+				]
+			},
+			"AdamSolKas": {
+				"attachment": [
+					{ "time": 0.7667, "name": "AdamSolKasUzgun" }
+				]
+			},
+			"KadinAgizGulumseme": {
+				"attachment": [
+					{ "name": "KadinAgizGulumseme" },
+					{ "time": 0.1667, "name": "KadinAgizBagirma" }
+				]
+			},
+			"KadinBurunV2": {
+				"attachment": [
+					{ "time": 0.1667, "name": "KadinBurunV2" }
+				]
+			},
+			"KadinGoz": {
+				"attachment": [
+					{ "time": 0.1667, "name": "KadinGozIgrenme" },
+					{ "time": 1.3333, "name": null }
+				]
+			},
+			"KadinGozAcik": {
+				"attachment": [
+					{ "time": 1.3333, "name": "KadinGozKapali" }
+				]
+			},
+			"KadinKafaV2": {
+				"attachment": [
+					{ "time": 0.1667, "name": "KadinKafaV2" }
+				]
+			},
+			"Kaskol": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"kalp01": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"kalp02": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		},
+		"bones": {
+			"AdamKafa": {
+				"rotate": [
+					{},
+					{ "time": 0.3667, "angle": 0.73 },
+					{ "time": 0.5667, "angle": 3.98 },
+					{ "time": 0.7333, "angle": 8.29 },
+					{ "time": 0.8333, "angle": -3.47 },
+					{ "time": 1, "angle": -6 },
+					{ "time": 1.1667, "angle": -2.56 },
+					{ "time": 1.3667, "angle": -2.27 }
+				],
+				"translate": [
+					{ "x": -0.35 },
+					{ "time": 0.2 },
+					{ "time": 0.3667, "x": -2.32, "y": 0.19 },
+					{ "time": 0.5667, "x": -20.69, "y": 1.72 },
+					{ "time": 0.7333, "x": -31.7, "y": 2.64 },
+					{ "time": 0.8333, "x": -4.28, "y": 0.5 },
+					{ "time": 1, "x": 1.43, "y": 0.07 },
+					{ "time": 1.1667, "x": 1.46, "y": 0.07 },
+					{ "time": 1.3667, "x": 1.43, "y": 0.07 }
+				]
+			},
+			"AdamGoz": {
+				"translate": [
+					{ "time": 0.7333 },
+					{ "time": 0.8333, "x": -27.87, "y": -12.89, "curve": "stepped" },
+					{ "time": 1.7333, "x": -27.87, "y": -12.89 },
+					{ "time": 1.8333, "x": -1.72, "y": 6.54 }
+				]
+			},
+			"AdamSagKas": {
+				"rotate": [
+					{ "angle": -19.5 }
+				],
+				"translate": [
+					{ "x": 18.88, "y": 2.55 },
+					{ "time": 0.3667, "x": 17.17, "y": 2.57 },
+					{ "time": 0.5667, "x": 14.71, "y": 2.6 },
+					{ "time": 0.7333, "x": 15.33, "y": 2.59 },
+					{ "time": 0.8333, "x": 18.46, "y": 2.55 },
+					{ "time": 1, "x": 18.88, "y": 2.55 }
+				]
+			},
+			"AdamSolKas": {
+				"translate": [
+					{ "x": 4.25, "y": -0.75 },
+					{ "time": 0.3667, "x": 2.54, "y": -0.73 },
+					{ "time": 0.5667, "x": 0.08, "y": -0.7 },
+					{ "time": 0.7333, "x": 0.7, "y": -0.7 },
+					{ "time": 0.8333, "x": 3.83, "y": -0.74 },
+					{ "time": 1, "x": 4.25, "y": -0.75 }
+				]
+			},
+			"KadinKafaV2": {
+				"rotate": [
+					{},
+					{ "time": 0.1, "angle": -4.68 },
+					{ "time": 0.2333, "angle": -0.43 },
+					{ "time": 0.3667, "angle": 1.09 },
+					{ "time": 0.4333, "angle": -2.4 },
+					{ "time": 0.5, "angle": -0.01 },
+					{ "time": 0.5333, "angle": -0.52 },
+					{ "time": 0.6, "angle": 0.7 },
+					{ "time": 0.7, "angle": -1.84 },
+					{ "time": 0.7667 },
+					{ "time": 0.8333, "angle": -1.43 },
+					{ "time": 0.9333, "angle": -0.55 },
+					{ "time": 1, "angle": -1.49 },
+					{ "time": 1.1, "angle": -0.45 },
+					{ "time": 1.2, "angle": -1.43 },
+					{ "time": 1.4667, "angle": 11.51 },
+					{ "time": 1.6, "angle": -5.03 },
+					{ "time": 1.6667, "angle": 5.24 }
+				],
+				"translate": [
+					{ "x": -0.71, "y": -0.02 },
+					{ "time": 0.1, "x": -36.59, "y": -13.01 },
+					{ "time": 0.2333, "x": -13.34, "y": -8.21 },
+					{ "time": 0.7, "x": -11.42, "y": -7.74 }
+				]
+			},
+			"KadinGoz": {
+				"translate": [
+					{ "time": 0.1 },
+					{ "time": 0.2333, "x": 3.77, "y": 0.32 },
+					{ "time": 0.7, "x": 4.17, "y": 0.35 },
+					{ "time": 1.3, "x": 2.03, "y": 21.15 }
+				],
+				"scale": [
+					{ "time": 0.7 },
+					{ "time": 1.3, "x": 0.833, "y": 0.833 }
+				]
+			},
+			"AdamGovde": {
+				"rotate": [
+					{ "time": 0.5667 },
+					{ "time": 0.7333, "angle": 3.25 },
+					{ "time": 0.8333, "angle": -1.58 },
+					{ "time": 1, "angle": -2.54 },
+					{ "time": 1.1667, "angle": -0.12 },
+					{ "time": 1.3667 }
+				],
+				"scale": [
+					{},
+					{ "time": 0.3667, "x": 0.994 },
+					{ "time": 0.5667, "x": 0.969 },
+					{ "time": 0.7333, "x": 0.926 },
+					{ "time": 0.8333, "x": 1.004 },
+					{ "time": 1, "x": 1.018 },
+					{ "time": 1.1667, "x": 0.972 },
+					{ "time": 1.3667, "x": 0.969 }
+				]
+			},
+			"kadin_bone": {
+				"translate": [
+					{ "time": 1.1667 },
+					{ "time": 1.4667, "x": 138.29 },
+					{ "time": 1.5667, "x": 78.83 },
+					{ "time": 1.6, "x": 20.44 },
+					{ "time": 1.6333, "x": -64.38 },
+					{ "time": 1.6667, "x": -210.91 },
+					{ "time": 1.7, "x": -667.78 },
+					{ "time": 1.7333, "x": -956.19 }
+				],
+				"scale": [
+					{ "time": 1.5667 },
+					{ "time": 1.6, "x": -1 }
+				]
+			},
+			"KadinGovde": {
+				"rotate": [
+					{ "time": 0.1 },
+					{ "time": 0.2333, "angle": -3.88 },
+					{ "time": 0.3, "angle": -2.66 },
+					{ "time": 0.3667, "angle": -6.34 },
+					{ "time": 0.4333, "angle": -4.06 },
+					{ "time": 0.4667, "angle": -4.61 },
+					{ "time": 0.5333, "angle": -3.43 },
+					{ "time": 0.6333, "angle": -6.05 },
+					{ "time": 0.7, "angle": -4.3 },
+					{ "time": 0.7667, "angle": -5.73 },
+					{ "time": 0.8667, "angle": -4.85 },
+					{ "time": 0.9333, "angle": -5.79 },
+					{ "time": 1.0333, "angle": -4.75 },
+					{ "time": 1.1333, "angle": -5.73, "curve": "stepped" },
+					{ "time": 1.2667, "angle": -5.73 },
+					{ "time": 1.4667, "angle": -1.16 },
+					{ "time": 1.5667, "angle": 0.18 },
+					{ "time": 1.6, "angle": 4.15 },
+					{ "time": 1.6333, "angle": -1.57 }
+				],
+				"scale": [
+					{},
+					{ "time": 0.1, "x": 0.918 },
+					{ "time": 0.2333, "x": 0.972 },
+					{ "time": 0.7, "x": 0.979 }
+				]
+			},
+			"KadinSolKas": {
+				"rotate": [
+					{ "time": 0.1 },
+					{ "time": 0.2333, "angle": -32.51 },
+					{ "time": 0.7, "angle": -35.98 }
+				],
+				"translate": [
+					{},
+					{ "time": 0.1, "x": -0.47 },
+					{ "time": 0.2333, "x": 6, "y": -14.86 },
+					{ "time": 0.7, "x": 6.84, "y": -16.45 }
+				]
+			},
+			"KadinSagKas": {
+				"rotate": [
+					{ "time": 0.1 },
+					{ "time": 0.2333, "angle": 36.95 },
+					{ "time": 0.7, "angle": 40.91 }
+				],
+				"translate": [
+					{},
+					{ "time": 0.1, "x": -0.47 },
+					{ "time": 0.2333, "x": -6.01, "y": -0.06 },
+					{ "time": 0.7, "x": -6.45, "y": -0.06 }
+				]
+			}
+		}
+	}
+}
+}

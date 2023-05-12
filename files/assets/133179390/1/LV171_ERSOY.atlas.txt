@@ -1,0 +1,475 @@
+
+LV171_ERSOY.png
+size: 2020,952
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ADAM_AGIZ
+  rotate: false
+  xy: 1789, 14
+  size: 54, 49
+  orig: 54, 49
+  offset: 0, 0
+  index: -1
+ADAM_AGIZ_BAGIRMA
+  rotate: false
+  xy: 1866, 34
+  size: 59, 40
+  orig: 59, 40
+  offset: 0, 0
+  index: -1
+ADAM_AGIZ_DIS_SIKMA
+  rotate: true
+  xy: 1974, 519
+  size: 74, 32
+  orig: 74, 32
+  offset: 0, 0
+  index: -1
+ADAM_AGIZ_GULME
+  rotate: false
+  xy: 489, 11
+  size: 52, 25
+  orig: 52, 25
+  offset: 0, 0
+  index: -1
+ADAM_AGIZ_NORMAL
+  rotate: true
+  xy: 2008, 559
+  size: 34, 10
+  orig: 34, 10
+  offset: 0, 0
+  index: -1
+ADAM_AGIZ_OPUCUK
+  rotate: false
+  xy: 866, 17
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+ADAM_AGIZ_SASIRMA
+  rotate: true
+  xy: 1974, 642
+  size: 56, 44
+  orig: 56, 44
+  offset: 0, 0
+  index: -1
+ADAM_AGIZ_SIRITMA
+  rotate: true
+  xy: 1741, 65
+  size: 72, 51
+  orig: 72, 51
+  offset: 0, 0
+  index: -1
+ADAM_BURUN
+  rotate: true
+  xy: 1930, 67
+  size: 28, 62
+  orig: 28, 62
+  offset: 0, 0
+  index: -1
+ADAM_DUDAK_ISIRMA
+  rotate: true
+  xy: 1994, 37
+  size: 58, 24
+  orig: 58, 24
+  offset: 0, 0
+  index: -1
+ADAM_GOVDE
+  rotate: false
+  xy: 1830, 418
+  size: 142, 280
+  orig: 142, 280
+  offset: 0, 0
+  index: -1
+ADAM_GOZ_BEYAZ
+  rotate: false
+  xy: 418, 67
+  size: 83, 66
+  orig: 83, 66
+  offset: 0, 0
+  index: -1
+ADAM_GOZ_KAPALI
+  rotate: false
+  xy: 1654, 71
+  size: 85, 66
+  orig: 85, 66
+  offset: 0, 0
+  index: -1
+ADAM_GOZ_MASKE
+  rotate: true
+  xy: 644, 11
+  size: 91, 58
+  orig: 91, 58
+  offset: 0, 0
+  index: -1
+ADAM_GOZ_MASKE_2
+  rotate: false
+  xy: 345, 2
+  size: 91, 63
+  orig: 91, 63
+  offset: 0, 0
+  index: -1
+ADAM_KAFA
+  rotate: true
+  xy: 503, 104
+  size: 166, 199
+  orig: 166, 199
+  offset: 0, 0
+  index: -1
+ADAM_SAGL_EL_ACIK
+  rotate: false
+  xy: 829, 46
+  size: 55, 76
+  orig: 55, 76
+  offset: 0, 0
+  index: -1
+ADAM_SAG_AYAK
+  rotate: false
+  xy: 1793, 222
+  size: 126, 71
+  orig: 126, 71
+  offset: 0, 0
+  index: -1
+ADAM_SAG_BACAK_ALT
+  rotate: true
+  xy: 204, 69
+  size: 64, 212
+  orig: 64, 212
+  offset: 0, 0
+  index: -1
+ADAM_SAG_BACAK_UST
+  rotate: false
+  xy: 1515, 124
+  size: 68, 185
+  orig: 68, 185
+  offset: 0, 0
+  index: -1
+ADAM_SAG_EL_YUMRUK
+  rotate: false
+  xy: 438, 7
+  size: 49, 58
+  orig: 49, 58
+  offset: 0, 0
+  index: -1
+ADAM_SAG_KAS
+  rotate: false
+  xy: 1515, 311
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+ADAM_SAG_KOL_ALT
+  rotate: true
+  xy: 204, 2
+  size: 65, 139
+  orig: 65, 139
+  offset: 0, 0
+  index: -1
+ADAM_SAG_KOL_UST
+  rotate: false
+  xy: 1654, 139
+  size: 68, 170
+  orig: 68, 170
+  offset: 0, 0
+  index: -1
+ADAM_SOL_AYAK
+  rotate: false
+  xy: 1793, 149
+  size: 125, 71
+  orig: 125, 71
+  offset: 0, 0
+  index: -1
+ADAM_SOL_BACAK_ALT
+  rotate: false
+  xy: 1449, 119
+  size: 64, 212
+  orig: 64, 212
+  offset: 0, 0
+  index: -1
+ADAM_SOL_BACAK_UST
+  rotate: false
+  xy: 1585, 124
+  size: 67, 185
+  orig: 67, 185
+  offset: 0, 0
+  index: -1
+ADAM_SOL_EL
+  rotate: false
+  xy: 1794, 65
+  size: 70, 82
+  orig: 70, 82
+  offset: 0, 0
+  index: -1
+ADAM_SOL_EL_ACIK
+  rotate: true
+  xy: 1647, 10
+  size: 59, 81
+  orig: 59, 81
+  offset: 0, 0
+  index: -1
+ADAM_SOL_EL_YUMRUK
+  rotate: true
+  xy: 1730, 14
+  size: 49, 57
+  orig: 49, 57
+  offset: 0, 0
+  index: -1
+ADAM_SOL_EL_YUZUK
+  rotate: false
+  xy: 1930, 97
+  size: 70, 57
+  orig: 70, 57
+  offset: 0, 0
+  index: -1
+ADAM_SOL_KAS
+  rotate: true
+  xy: 1955, 2
+  size: 38, 20
+  orig: 38, 20
+  offset: 0, 0
+  index: -1
+ADAM_SOL_KOL_ALT
+  rotate: true
+  xy: 503, 38
+  size: 64, 139
+  orig: 64, 139
+  offset: 0, 0
+  index: -1
+ADAM_SOL_KOL_UST
+  rotate: false
+  xy: 1724, 139
+  size: 67, 170
+  orig: 67, 170
+  offset: 0, 0
+  index: -1
+AYNA
+  rotate: false
+  xy: 503, 272
+  size: 391, 678
+  orig: 391, 678
+  offset: 0, 0
+  index: -1
+A_GOZ
+  rotate: false
+  xy: 1927, 42
+  size: 59, 23
+  orig: 59, 23
+  offset: 0, 0
+  index: -1
+GERCEK_ASK_LEVEL
+  rotate: false
+  xy: 1921, 156
+  size: 89, 82
+  orig: 90, 93
+  offset: 0, 11
+  index: -1
+HALAT_BAGLI
+  rotate: false
+  xy: 1262, 2
+  size: 83, 132
+  orig: 83, 133
+  offset: 0, 1
+  index: -1
+KADIN_AGIZ_BAGIRMA
+  rotate: true
+  xy: 825, 2
+  size: 42, 39
+  orig: 42, 39
+  offset: 0, 0
+  index: -1
+KADIN_AGIZ_DUDAK_ISIRMA_UZGUN
+  rotate: true
+  xy: 1979, 394
+  size: 42, 35
+  orig: 42, 35
+  offset: 0, 0
+  index: -1
+KADIN_AGIZ_GULUMSEME
+  rotate: false
+  xy: 896, 14
+  size: 38, 19
+  orig: 38, 19
+  offset: 0, 0
+  index: -1
+KADIN_AGIZ_SIKILMIS
+  rotate: true
+  xy: 1845, 24
+  size: 39, 19
+  orig: 39, 19
+  offset: 0, 0
+  index: -1
+KADIN_ARKA_SAC_KOTU
+  rotate: false
+  xy: 1830, 700
+  size: 187, 250
+  orig: 187, 250
+  offset: 0, 0
+  index: -1
+KADIN_EL_MASKE
+  rotate: false
+  xy: 1974, 595
+  size: 44, 45
+  orig: 44, 45
+  offset: 0, 0
+  index: -1
+KADIN_GOZ
+  rotate: true
+  xy: 1974, 438
+  size: 79, 24
+  orig: 79, 24
+  offset: 0, 0
+  index: -1
+KADIN_GOZ_ACIK
+  rotate: false
+  xy: 1522, 67
+  size: 123, 55
+  orig: 123, 55
+  offset: 0, 0
+  index: -1
+KADIN_GOZ_BEYAZ
+  rotate: false
+  xy: 1921, 240
+  size: 97, 53
+  orig: 97, 53
+  offset: 0, 0
+  index: -1
+KADIN_GOZ_KAPALI
+  rotate: false
+  xy: 704, 12
+  size: 119, 54
+  orig: 119, 54
+  offset: 0, 0
+  index: -1
+KADIN_GOZ_KISIK_MASKE
+  rotate: false
+  xy: 1522, 11
+  size: 123, 54
+  orig: 123, 54
+  offset: 0, 0
+  index: -1
+KADIN_GOZ_MASKE
+  rotate: false
+  xy: 704, 68
+  size: 123, 54
+  orig: 123, 54
+  offset: 0, 0
+  index: -1
+KADIN_INCE_BEDEN
+  rotate: false
+  xy: 896, 333
+  size: 323, 617
+  orig: 323, 617
+  offset: 0, 0
+  index: -1
+KADIN_INCE_BEDEN_KOLSUZ
+  rotate: false
+  xy: 1546, 311
+  size: 282, 639
+  orig: 282, 639
+  offset: 0, 0
+  index: -1
+KADIN_KAFA
+  rotate: true
+  xy: 704, 124
+  size: 146, 179
+  orig: 146, 179
+  offset: 0, 0
+  index: -1
+KADIN_SAC_ON_DAGINIK
+  rotate: false
+  xy: 1262, 136
+  size: 185, 195
+  orig: 214, 195
+  offset: 0, 0
+  index: -1
+KADIN_SAG_KAS
+  rotate: true
+  xy: 1927, 2
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1
+KADIN_SISMAN_BEDEN
+  rotate: false
+  xy: 1221, 333
+  size: 323, 617
+  orig: 323, 617
+  offset: 0, 0
+  index: -1
+KADIN_SOL_EL_ACIK
+  rotate: true
+  xy: 1442, 25
+  size: 92, 78
+  orig: 92, 78
+  offset: 0, 0
+  index: -1
+KADIN_SOL_EL_YUMRUK
+  rotate: true
+  xy: 1866, 76
+  size: 71, 62
+  orig: 71, 62
+  offset: 0, 0
+  index: -1
+KADIN_SOL_KAS
+  rotate: false
+  xy: 1866, 2
+  size: 37, 30
+  orig: 37, 30
+  offset: 0, 0
+  index: -1
+KADIN_SOL_KOL_ALT
+  rotate: true
+  xy: 1347, 11
+  size: 123, 93
+  orig: 123, 93
+  offset: 0, 0
+  index: -1
+KADIN_SOL_KOL_UST
+  rotate: true
+  xy: 1830, 295
+  size: 121, 147
+  orig: 121, 147
+  offset: 0, 0
+  index: -1
+KAPI_1
+  rotate: false
+  xy: 2, 18
+  size: 200, 932
+  orig: 200, 932
+  offset: 0, 0
+  index: -1
+KAPI_2
+  rotate: false
+  xy: 204, 135
+  size: 297, 815
+  orig: 297, 815
+  offset: 0, 0
+  index: -1
+POSTER
+  rotate: true
+  xy: 896, 35
+  size: 296, 364
+  orig: 296, 364
+  offset: 0, 0
+  index: -1
+YUZUK_KUCUK
+  rotate: false
+  xy: 1905, 2
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+YUZUK_KUTU_ALT
+  rotate: false
+  xy: 590, 19
+  size: 45, 17
+  orig: 45, 17
+  offset: 0, 0
+  index: -1
+YUZUK_KUTU_UST
+  rotate: false
+  xy: 543, 14
+  size: 45, 22
+  orig: 45, 22
+  offset: 0, 0
+  index: -1

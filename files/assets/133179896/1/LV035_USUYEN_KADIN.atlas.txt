@@ -1,0 +1,279 @@
+
+LV035_USUYEN_KADIN.png
+size: 3266,2443
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG_REFERANCE
+  rotate: false
+  xy: 2, 5
+  size: 2436, 2436
+  orig: 2438, 2438
+  offset: 1, 1
+  index: -1
+F_BODY_1
+  rotate: false
+  xy: 2440, 474
+  size: 267, 962
+  orig: 270, 964
+  offset: 2, 1
+  index: -1
+F_BODY_2
+  rotate: false
+  xy: 2709, 519
+  size: 285, 917
+  orig: 287, 919
+  offset: 1, 1
+  index: -1
+F_EYE_1
+  rotate: true
+  xy: 3068, 2264
+  size: 177, 113
+  orig: 179, 115
+  offset: 1, 1
+  index: -1
+F_EYE_2
+  rotate: false
+  xy: 2440, 47
+  size: 197, 113
+  orig: 199, 115
+  offset: 1, 1
+  index: -1
+F_EYE_3
+  rotate: false
+  xy: 2639, 47
+  size: 197, 113
+  orig: 199, 115
+  offset: 1, 1
+  index: -1
+F_EYE_4
+  rotate: false
+  xy: 3064, 1674
+  size: 197, 113
+  orig: 199, 115
+  offset: 1, 1
+  index: -1
+F_EYE_5
+  rotate: false
+  xy: 2770, 1544
+  size: 191, 113
+  orig: 193, 115
+  offset: 1, 1
+  index: -1
+F_EYE_HEART_1
+  rotate: true
+  xy: 2933, 91
+  size: 69, 55
+  orig: 71, 57
+  offset: 1, 1
+  index: -1
+F_EYE_HEART_2
+  rotate: false
+  xy: 2947, 477
+  size: 42, 40
+  orig: 44, 42
+  offset: 1, 1
+  index: -1
+F_EYE_PUPILS
+  rotate: true
+  xy: 3183, 2327
+  size: 114, 46
+  orig: 116, 48
+  offset: 1, 1
+  index: -1
+F_HAIR
+  rotate: true
+  xy: 3064, 1789
+  size: 297, 198
+  orig: 299, 200
+  offset: 1, 1
+  index: -1
+F_HAIR_BEHIND
+  rotate: true
+  xy: 2440, 162
+  size: 310, 552
+  orig: 312, 554
+  offset: 1, 1
+  index: -1
+F_HEAD_1
+  rotate: false
+  xy: 2996, 1334
+  size: 265, 323
+  orig: 267, 325
+  offset: 1, 1
+  index: -1
+F_HEAD_2
+  rotate: false
+  xy: 2996, 1009
+  size: 265, 323
+  orig: 267, 325
+  offset: 1, 1
+  index: -1
+F_JACKET
+  rotate: false
+  xy: 2770, 1659
+  size: 292, 427
+  orig: 294, 429
+  offset: 1, 1
+  index: -1
+F_LEFT_EYEBROW
+  rotate: false
+  xy: 2902, 476
+  size: 43, 41
+  orig: 46, 43
+  offset: 2, 1
+  index: -1
+F_MOUTH_1
+  rotate: false
+  xy: 3165, 11
+  size: 86, 51
+  orig: 88, 53
+  offset: 1, 1
+  index: -1
+F_MOUTH_2
+  rotate: true
+  xy: 2990, 19
+  size: 81, 82
+  orig: 83, 84
+  offset: 1, 1
+  index: -1
+F_NOSE_1
+  rotate: true
+  xy: 2709, 476
+  size: 41, 65
+  orig: 43, 67
+  offset: 1, 1
+  index: -1
+F_NOSE_2
+  rotate: true
+  xy: 2776, 476
+  size: 41, 65
+  orig: 43, 67
+  offset: 1, 1
+  index: -1
+F_RIGHT_EYEBROW
+  rotate: true
+  xy: 2895, 1473
+  size: 69, 51
+  orig: 72, 56
+  offset: 2, 3
+  index: -1
+HEARTH_1
+  rotate: true
+  xy: 2996, 745
+  size: 122, 105
+  orig: 124, 107
+  offset: 1, 1
+  index: -1
+HEARTH_2
+  rotate: false
+  xy: 2770, 1438
+  size: 123, 104
+  orig: 125, 107
+  offset: 1, 1
+  index: -1
+LEAF_1
+  rotate: true
+  xy: 2933, 2
+  size: 87, 54
+  orig: 89, 56
+  offset: 1, 1
+  index: -1
+LEAF_2
+  rotate: false
+  xy: 2514, 9
+  size: 82, 36
+  orig: 84, 38
+  offset: 1, 1
+  index: -1
+LEAF_3
+  rotate: false
+  xy: 2598, 14
+  size: 62, 31
+  orig: 64, 33
+  offset: 1, 1
+  index: -1
+M_BODY
+  rotate: false
+  xy: 2440, 1438
+  size: 328, 1003
+  orig: 330, 1005
+  offset: 1, 1
+  index: -1
+M_EYEBROW_LEFT
+  rotate: false
+  xy: 2440, 6
+  size: 72, 39
+  orig: 74, 41
+  offset: 1, 1
+  index: -1
+M_EYEBROW_RIGHT
+  rotate: true
+  xy: 2948, 1486
+  size: 56, 46
+  orig: 59, 48
+  offset: 2, 1
+  index: -1
+M_EYE_1
+  rotate: false
+  xy: 2996, 641
+  size: 135, 102
+  orig: 137, 107
+  offset: 1, 4
+  index: -1
+M_EYE_2
+  rotate: true
+  xy: 2838, 9
+  size: 151, 93
+  orig: 153, 95
+  offset: 1, 1
+  index: -1
+M_EYE_3
+  rotate: false
+  xy: 3068, 2162
+  size: 149, 100
+  orig: 153, 102
+  offset: 3, 1
+  index: -1
+M_EYE_4
+  rotate: true
+  xy: 2996, 869
+  size: 138, 105
+  orig: 140, 110
+  offset: 1, 4
+  index: -1
+M_EYE_PUPILS
+  rotate: false
+  xy: 3165, 64
+  size: 94, 36
+  orig: 96, 38
+  offset: 1, 1
+  index: -1
+M_HEAD
+  rotate: false
+  xy: 2770, 2088
+  size: 296, 353
+  orig: 298, 355
+  offset: 1, 1
+  index: -1
+M_JACKET
+  rotate: false
+  xy: 2994, 102
+  size: 0, 0
+  orig: 272, 417
+  offset: 1, 1
+  index: -1
+M_MOUTH_1
+  rotate: false
+  xy: 3074, 23
+  size: 89, 77
+  orig: 93, 82
+  offset: 1, 4
+  index: -1
+M_MOUTH_2
+  rotate: true
+  xy: 2843, 476
+  size: 41, 57
+  orig: 43, 59
+  offset: 1, 1
+  index: -1

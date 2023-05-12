@@ -1,0 +1,391 @@
+
+LV041_AIR_CONDITIONER.png
+size: 3715,740
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AIR_CONDITIONING
+  rotate: false
+  xy: 2061, 190
+  size: 408, 195
+  orig: 419, 197
+  offset: 5, 1
+  index: -1
+BROKEN_HEART_1
+  rotate: true
+  xy: 3339, 176
+  size: 127, 99
+  orig: 130, 101
+  offset: 2, 1
+  index: -1
+F1_BODY
+  rotate: true
+  xy: 1017, 299
+  size: 219, 772
+  orig: 222, 774
+  offset: 1, 1
+  index: -1
+F1_LEG
+  rotate: true
+  xy: 1017, 9
+  size: 288, 472
+  orig: 294, 475
+  offset: 5, 2
+  index: -1
+F2_ARM
+  rotate: false
+  xy: 3149, 297
+  size: 178, 152
+  orig: 182, 160
+  offset: 1, 1
+  index: -1
+F2_BODY
+  rotate: true
+  xy: 1017, 520
+  size: 218, 774
+  orig: 223, 778
+  offset: 2, 3
+  index: -1
+F2_EYE_1
+  rotate: false
+  xy: 2344, 2
+  size: 150, 85
+  orig: 154, 88
+  offset: 3, 2
+  index: -1
+F2_EYE_2
+  rotate: false
+  xy: 3010, 418
+  size: 83, 31
+  orig: 85, 33
+  offset: 1, 1
+  index: -1
+F2_EYE_4
+  rotate: false
+  xy: 3440, 144
+  size: 150, 85
+  orig: 154, 88
+  offset: 3, 2
+  index: -1
+F2_EYE_5
+  rotate: false
+  xy: 3440, 231
+  size: 157, 89
+  orig: 159, 91
+  offset: 1, 1
+  index: -1
+F2_EYE_6
+  rotate: true
+  xy: 3329, 305
+  size: 144, 87
+  orig: 148, 90
+  offset: 3, 1
+  index: -1
+F2_HAND_1
+  rotate: false
+  xy: 3022, 26
+  size: 70, 63
+  orig: 72, 65
+  offset: 1, 1
+  index: -1
+F2_HAND_2
+  rotate: false
+  xy: 1791, 374
+  size: 54, 59
+  orig: 57, 63
+  offset: 1, 2
+  index: -1
+F2_HEAD
+  rotate: false
+  xy: 2471, 111
+  size: 219, 274
+  orig: 281, 292
+  offset: 1, 1
+  index: -1
+F2_LEFT_EYEBROW
+  rotate: false
+  xy: 2809, 15
+  size: 40, 29
+  orig: 42, 32
+  offset: 1, 1
+  index: -1
+F2_LEG
+  rotate: true
+  xy: 2215, 387
+  size: 351, 406
+  orig: 357, 452
+  offset: 3, 44
+  index: -1
+F2_MOUTH_1
+  rotate: false
+  xy: 2753, 18
+  size: 54, 26
+  orig: 56, 28
+  offset: 1, 1
+  index: -1
+F2_MOUTH_2
+  rotate: true
+  xy: 1791, 299
+  size: 73, 41
+  orig: 76, 45
+  offset: 2, 3
+  index: -1
+F2_MOUTH_3
+  rotate: true
+  xy: 3655, 26
+  size: 74, 58
+  orig: 77, 61
+  offset: 1, 2
+  index: -1
+F2_NOSE
+  rotate: true
+  xy: 3095, 419
+  size: 30, 48
+  orig: 32, 51
+  offset: 1, 1
+  index: -1
+F2_RIGHT_EYEBROW
+  rotate: true
+  xy: 2303, 28
+  size: 58, 36
+  orig: 65, 38
+  offset: 3, 1
+  index: -1
+F_BACK_HAIR
+  rotate: true
+  xy: 2061, 88
+  size: 100, 281
+  orig: 103, 284
+  offset: 1, 1
+  index: -1
+GREEN_BUTTON
+  rotate: false
+  xy: 2858, 44
+  size: 80, 79
+  orig: 86, 85
+  offset: 3, 3
+  index: -1
+HEART_1
+  rotate: true
+  xy: 3599, 205
+  size: 115, 99
+  orig: 118, 101
+  offset: 2, 1
+  index: -1
+M1_BODY
+  rotate: true
+  xy: 3010, 451
+  size: 287, 406
+  orig: 289, 408
+  offset: 1, 1
+  index: -1
+M1_LEG
+  rotate: true
+  xy: 2623, 404
+  size: 334, 385
+  orig: 443, 388
+  offset: 108, 1
+  index: -1
+M2_ARM
+  rotate: false
+  xy: 2945, 159
+  size: 202, 243
+  orig: 205, 245
+  offset: 1, 1
+  index: -1
+M2_BODY
+  rotate: false
+  xy: 1847, 19
+  size: 212, 414
+  orig: 215, 416
+  offset: 2, 1
+  index: -1
+M2_EYE_1
+  rotate: false
+  xy: 3592, 102
+  size: 113, 101
+  orig: 118, 106
+  offset: 3, 3
+  index: -1
+M2_EYE_2
+  rotate: false
+  xy: 2061, 390
+  size: 82, 43
+  orig: 84, 45
+  offset: 1, 1
+  index: -1
+M2_EYE_3
+  rotate: false
+  xy: 3142, 50
+  size: 120, 89
+  orig: 126, 92
+  offset: 5, 1
+  index: -1
+M2_EYE_4
+  rotate: false
+  xy: 2344, 89
+  size: 120, 99
+  orig: 125, 102
+  offset: 4, 1
+  index: -1
+M2_EYE_5
+  rotate: false
+  xy: 3264, 38
+  size: 113, 101
+  orig: 118, 106
+  offset: 3, 3
+  index: -1
+M2_HAND_1
+  rotate: false
+  xy: 3379, 43
+  size: 103, 99
+  orig: 106, 101
+  offset: 2, 1
+  index: -1
+M2_HAND_2
+  rotate: true
+  xy: 2692, 46
+  size: 77, 81
+  orig: 79, 83
+  offset: 1, 1
+  index: -1
+M2_HEAD
+  rotate: false
+  xy: 2692, 125
+  size: 251, 277
+  orig: 253, 279
+  offset: 1, 1
+  index: -1
+M2_LEFT_EYEBROW
+  rotate: true
+  xy: 3657, 324
+  size: 58, 32
+  orig: 63, 37
+  offset: 1, 4
+  index: -1
+M2_LEG
+  rotate: true
+  xy: 1491, 6
+  size: 291, 354
+  orig: 400, 362
+  offset: 108, 1
+  index: -1
+M2_MOUTH_1
+  rotate: false
+  xy: 3484, 12
+  size: 78, 51
+  orig: 81, 55
+  offset: 1, 2
+  index: -1
+M2_MOUTH_2
+  rotate: true
+  xy: 3571, 24
+  size: 76, 82
+  orig: 79, 86
+  offset: 2, 1
+  index: -1
+M2_MOUTH_3
+  rotate: false
+  xy: 2145, 403
+  size: 63, 30
+  orig: 76, 52
+  offset: 10, 2
+  index: -1
+M2_RIGHT_EYEBROW
+  rotate: false
+  xy: 3094, 42
+  size: 41, 47
+  orig: 45, 50
+  offset: 2, 1
+  index: -1
+M3_BODY
+  rotate: true
+  xy: 1793, 435
+  size: 303, 420
+  orig: 310, 423
+  offset: 2, 2
+  index: -1
+M3_HAND_1
+  rotate: true
+  xy: 2775, 46
+  size: 77, 81
+  orig: 79, 83
+  offset: 1, 1
+  index: -1
+M3_HAND_2
+  rotate: false
+  xy: 3484, 65
+  size: 85, 77
+  orig: 90, 80
+  offset: 3, 2
+  index: -1
+M3_LEFT_ARM
+  rotate: false
+  xy: 2496, 4
+  size: 181, 105
+  orig: 185, 108
+  offset: 2, 1
+  index: -1
+M3_LEG
+  rotate: false
+  xy: 3418, 384
+  size: 291, 354
+  orig: 400, 362
+  offset: 1, 1
+  index: -1
+M3_RIGHT_ARM
+  rotate: false
+  xy: 3149, 181
+  size: 188, 114
+  orig: 190, 116
+  offset: 1, 1
+  index: -1
+RED_BUTTON
+  rotate: false
+  xy: 2940, 10
+  size: 80, 79
+  orig: 86, 85
+  offset: 3, 3
+  index: -1
+SEAT
+  rotate: false
+  xy: 2, 12
+  size: 1013, 726
+  orig: 1015, 728
+  offset: 1, 1
+  index: -1
+TERMO
+  rotate: true
+  xy: 2945, 91
+  size: 66, 195
+  orig: 68, 197
+  offset: 1, 1
+  index: -1
+TERMO_BLUE
+  rotate: true
+  xy: 2679, 2
+  size: 40, 72
+  orig: 40, 72
+  offset: 0, 0
+  index: -1
+TERMO_RED
+  rotate: true
+  xy: 3149, 141
+  size: 38, 158
+  orig: 40, 160
+  offset: 1, 1
+  index: -1
+hiz_efekt01
+  rotate: false
+  xy: 2061, 13
+  size: 240, 73
+  orig: 256, 256
+  offset: 5, 90
+  index: -1
+hizefekt02
+  rotate: false
+  xy: 3418, 322
+  size: 237, 60
+  orig: 256, 256
+  offset: 7, 104
+  index: -1

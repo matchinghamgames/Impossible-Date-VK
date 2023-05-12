@@ -1,0 +1,23 @@
+{
+    "header": {
+        "version": 1
+    },
+    "data": [
+        {
+            "info": {
+                "locale": "en-US"
+            },
+            "messages": {
+                "Done": "Done"
+            }
+        },
+        {
+            "info": {
+                "locale": "ru-RU"
+            },
+            "messages": {
+                "Done": "Сделанный"
+            }
+        }
+    ]
+}

@@ -1,0 +1,188 @@
+
+LV043_BROKEN_BENCH.png
+size: 2063,1099
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BENCH
+  rotate: false
+  xy: 894, 74
+  size: 843, 567
+  orig: 845, 569
+  offset: 1, 1
+  index: -1
+BENCH_BROKEN
+  rotate: false
+  xy: 2, 475
+  size: 890, 622
+  orig: 893, 636
+  offset: 1, 13
+  index: -1
+BENCH_BROKEN_PIECE
+  rotate: false
+  xy: 1739, 166
+  size: 143, 77
+  orig: 146, 79
+  offset: 1, 1
+  index: -1
+F_BODY
+  rotate: true
+  xy: 894, 643
+  size: 454, 879
+  orig: 461, 881
+  offset: 1, 1
+  index: -1
+F_EYES
+  rotate: false
+  xy: 1842, 544
+  size: 95, 36
+  orig: 97, 38
+  offset: 1, 1
+  index: -1
+F_EYES_CLOSED
+  rotate: false
+  xy: 1775, 582
+  size: 164, 100
+  orig: 168, 104
+  offset: 3, 1
+  index: -1
+F_EYES_WHITE
+  rotate: false
+  xy: 1775, 684
+  size: 171, 96
+  orig: 175, 100
+  offset: 3, 3
+  index: -1
+F_HAND
+  rotate: true
+  xy: 820, 2
+  size: 75, 47
+  orig: 77, 49
+  offset: 1, 1
+  index: -1
+F_HEAD
+  rotate: true
+  xy: 1739, 245
+  size: 292, 308
+  orig: 347, 332
+  offset: 2, 1
+  index: -1
+F_LEFT_BROW
+  rotate: false
+  xy: 820, 212
+  size: 62, 47
+  orig: 64, 54
+  offset: 1, 4
+  index: -1
+F_MOUTH_1
+  rotate: false
+  xy: 1966, 48
+  size: 92, 91
+  orig: 94, 94
+  offset: 1, 1
+  index: -1
+F_MOUTH_2
+  rotate: true
+  xy: 820, 388
+  size: 85, 72
+  orig: 87, 81
+  offset: 1, 1
+  index: -1
+F_MOUTH_3
+  rotate: true
+  xy: 820, 261
+  size: 66, 67
+  orig: 68, 69
+  offset: 1, 1
+  index: -1
+F_NOSE
+  rotate: false
+  xy: 1739, 586
+  size: 34, 55
+  orig: 36, 60
+  offset: 1, 3
+  index: -1
+F_RIGHT_BROW
+  rotate: false
+  xy: 1739, 539
+  size: 32, 45
+  orig: 35, 47
+  offset: 2, 1
+  index: -1
+HEART
+  rotate: false
+  xy: 1948, 678
+  size: 111, 102
+  orig: 113, 104
+  offset: 1, 1
+  index: -1
+M_BODY
+  rotate: true
+  xy: 2, 23
+  size: 450, 816
+  orig: 582, 818
+  offset: 131, 1
+  index: -1
+M_EYES
+  rotate: true
+  xy: 820, 79
+  size: 93, 48
+  orig: 95, 51
+  offset: 1, 2
+  index: -1
+M_EYES_CLOSED
+  rotate: true
+  xy: 1941, 547
+  size: 129, 115
+  orig: 134, 121
+  offset: 3, 4
+  index: -1
+M_EYES_MASK
+  rotate: false
+  xy: 1884, 141
+  size: 137, 102
+  orig: 144, 105
+  offset: 6, 1
+  index: -1
+M_EYES_WHITE
+  rotate: false
+  xy: 1739, 49
+  size: 129, 115
+  orig: 134, 121
+  offset: 3, 4
+  index: -1
+M_HEAD
+  rotate: false
+  xy: 1775, 782
+  size: 286, 315
+  orig: 289, 317
+  offset: 1, 1
+  index: -1
+M_LEFT_BROW
+  rotate: false
+  xy: 1773, 543
+  size: 67, 37
+  orig: 71, 41
+  offset: 3, 2
+  index: -1
+M_MOUTH_1
+  rotate: true
+  xy: 820, 329
+  size: 57, 69
+  orig: 60, 72
+  offset: 2, 1
+  index: -1
+M_MOUTH_2
+  rotate: true
+  xy: 1870, 53
+  size: 86, 94
+  orig: 89, 98
+  offset: 2, 1
+  index: -1
+M_RIGHT_BROW
+  rotate: false
+  xy: 820, 174
+  size: 62, 36
+  orig: 66, 40
+  offset: 2, 1
+  index: -1

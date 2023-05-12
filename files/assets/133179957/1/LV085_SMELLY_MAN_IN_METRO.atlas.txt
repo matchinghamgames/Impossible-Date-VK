@@ -1,0 +1,370 @@
+
+LV085_SMELLY_MAN_IN_METRO.png
+size: 3731,1672
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 2, 259
+  size: 3084, 1411
+  orig: 3088, 1414
+  offset: 2, 1
+  index: -1
+F_ MOUTH_1
+  rotate: false
+  xy: 875, 3
+  size: 89, 79
+  orig: 91, 86
+  offset: 1, 1
+  index: -1
+F_BODY
+  rotate: false
+  xy: 3413, 689
+  size: 230, 981
+  orig: 232, 983
+  offset: 1, 1
+  index: -1
+F_EYES
+  rotate: false
+  xy: 2337, 4
+  size: 101, 40
+  orig: 103, 42
+  offset: 1, 1
+  index: -1
+F_EYES_CLOSED
+  rotate: false
+  xy: 503, 19
+  size: 171, 103
+  orig: 171, 103
+  offset: 0, 0
+  index: -1
+F_EYES_WHITE
+  rotate: false
+  xy: 2458, 154
+  size: 162, 103
+  orig: 162, 103
+  offset: 0, 0
+  index: -1
+F_HAIR
+  rotate: true
+  xy: 3088, 34
+  size: 272, 299
+  orig: 274, 301
+  offset: 1, 1
+  index: -1
+F_HEAD
+  rotate: false
+  xy: 3381, 314
+  size: 343, 373
+  orig: 345, 375
+  offset: 1, 1
+  index: -1
+F_LEFT_ARM
+  rotate: false
+  xy: 3645, 1216
+  size: 73, 199
+  orig: 75, 202
+  offset: 1, 2
+  index: -1
+F_LEFT_BROW
+  rotate: true
+  xy: 3703, 1127
+  size: 87, 26
+  orig: 92, 28
+  offset: 1, 1
+  index: -1
+F_LEFT_FOREARM
+  rotate: false
+  xy: 3645, 770
+  size: 47, 170
+  orig: 50, 176
+  offset: 2, 5
+  index: -1
+F_LEFT_HAND
+  rotate: true
+  xy: 966, 7
+  size: 75, 88
+  orig: 79, 90
+  offset: 2, 1
+  index: -1
+F_MOUTH_2
+  rotate: false
+  xy: 3389, 2
+  size: 66, 31
+  orig: 68, 33
+  offset: 1, 1
+  index: -1
+F_MOUTH_3
+  rotate: false
+  xy: 2684, 2
+  size: 66, 68
+  orig: 68, 70
+  offset: 1, 1
+  index: -1
+F_MOUTH_4
+  rotate: true
+  xy: 3645, 942
+  size: 81, 84
+  orig: 81, 84
+  offset: 0, 0
+  index: -1
+F_NOSE
+  rotate: false
+  xy: 3645, 710
+  size: 36, 58
+  orig: 38, 60
+  offset: 1, 1
+  index: -1
+F_RIGHT_ARM
+  rotate: true
+  xy: 2238, 46
+  size: 80, 199
+  orig: 82, 201
+  offset: 1, 1
+  index: -1
+F_RIGHT_BROW
+  rotate: true
+  xy: 3071, 98
+  size: 34, 15
+  orig: 36, 17
+  offset: 1, 1
+  index: -1
+F_RIGHT_FOREARM
+  rotate: true
+  xy: 2622, 157
+  size: 100, 155
+  orig: 102, 157
+  offset: 1, 1
+  index: -1
+F_RIGHT_HAND_3
+  rotate: true
+  xy: 676, 13
+  size: 69, 99
+  orig: 71, 110
+  offset: 1, 4
+  index: -1
+F_RIGHT_HAND_4
+  rotate: false
+  xy: 777, 16
+  size: 96, 66
+  orig: 98, 68
+  offset: 1, 1
+  index: -1
+GERCEK_ASK_LEVEL
+  rotate: false
+  xy: 2684, 72
+  size: 90, 83
+  orig: 90, 93
+  offset: 0, 10
+  index: -1
+HANDLE_1
+  rotate: false
+  xy: 3645, 1025
+  size: 56, 189
+  orig: 58, 191
+  offset: 1, 1
+  index: -1
+HANDLE_2
+  rotate: false
+  xy: 3645, 1025
+  size: 56, 189
+  orig: 58, 191
+  offset: 1, 1
+  index: -1
+M_BODY
+  rotate: false
+  xy: 3088, 697
+  size: 323, 973
+  orig: 325, 975
+  offset: 1, 1
+  index: -1
+M_EYE
+  rotate: true
+  xy: 1056, 2
+  size: 92, 33
+  orig: 94, 35
+  offset: 1, 1
+  index: -1
+M_EYES_CLOSED
+  rotate: false
+  xy: 2458, 53
+  size: 131, 99
+  orig: 133, 101
+  offset: 1, 1
+  index: -1
+M_EYE_WHITE
+  rotate: false
+  xy: 2779, 61
+  size: 131, 100
+  orig: 133, 104
+  offset: 1, 3
+  index: -1
+M_HEAD
+  rotate: true
+  xy: 3389, 35
+  size: 277, 320
+  orig: 279, 322
+  offset: 1, 1
+  index: -1
+M_LEFT_ARM
+  rotate: false
+  xy: 1311, 47
+  size: 259, 175
+  orig: 261, 178
+  offset: 1, 1
+  index: -1
+M_LEFT_BROW_1
+  rotate: false
+  xy: 2023, 13
+  size: 40, 27
+  orig: 42, 29
+  offset: 1, 1
+  index: -1
+M_LEFT_BROW_2
+  rotate: true
+  xy: 3030, 88
+  size: 44, 39
+  orig: 46, 41
+  offset: 1, 1
+  index: -1
+M_LEFT_FOREARM
+  rotate: true
+  xy: 278, 27
+  size: 95, 223
+  orig: 97, 225
+  offset: 1, 1
+  index: -1
+M_LEFT_HAND
+  rotate: false
+  xy: 2591, 39
+  size: 91, 113
+  orig: 93, 118
+  offset: 1, 4
+  index: -1
+M_MOUTH_1
+  rotate: false
+  xy: 278, 2
+  size: 78, 23
+  orig: 78, 23
+  offset: 0, 0
+  index: -1
+M_MOUTH_2
+  rotate: false
+  xy: 2912, 49
+  size: 116, 83
+  orig: 116, 83
+  offset: 0, 0
+  index: -1
+M_NOSE
+  rotate: true
+  xy: 2238, 2
+  size: 42, 97
+  orig: 44, 99
+  offset: 1, 1
+  index: -1
+M_RED_EFFECT
+  rotate: false
+  xy: 1807, 11
+  size: 214, 211
+  orig: 232, 229
+  offset: 17, 7
+  index: -1
+M_RIGHT_ARM
+  rotate: true
+  xy: 2, 16
+  size: 106, 274
+  orig: 108, 276
+  offset: 1, 1
+  index: -1
+M_RIGHT_BROW_1
+  rotate: true
+  xy: 3694, 882
+  size: 58, 28
+  orig: 60, 30
+  offset: 1, 1
+  index: -1
+M_RIGHT_BROW_2
+  rotate: true
+  xy: 2752, 2
+  size: 57, 39
+  orig: 59, 41
+  offset: 1, 1
+  index: -1
+M_RIGHT_FOREARM
+  rotate: true
+  xy: 2238, 128
+  size: 94, 218
+  orig: 96, 220
+  offset: 1, 1
+  index: -1
+M_RIGHT_HAND
+  rotate: true
+  xy: 2779, 163
+  size: 94, 158
+  orig: 96, 163
+  offset: 1, 1
+  index: -1
+ODOR_1
+  rotate: true
+  xy: 696, 84
+  size: 138, 320
+  orig: 142, 323
+  offset: 2, 2
+  index: -1
+ODOR_2
+  rotate: false
+  xy: 3645, 1417
+  size: 62, 253
+  orig: 65, 258
+  offset: 1, 3
+  index: -1
+ODOR_3
+  rotate: true
+  xy: 1572, 25
+  size: 197, 233
+  orig: 199, 236
+  offset: 1, 1
+  index: -1
+ODOR_4
+  rotate: false
+  xy: 2, 124
+  size: 692, 98
+  orig: 694, 100
+  offset: 1, 1
+  index: -1
+PERFUME
+  rotate: false
+  xy: 3088, 308
+  size: 291, 387
+  orig: 293, 389
+  offset: 1, 1
+  index: -1
+PERFUME_ODOR_1
+  rotate: true
+  xy: 2023, 42
+  size: 180, 213
+  orig: 182, 216
+  offset: 1, 1
+  index: -1
+PERFUME_ODOR_2
+  rotate: true
+  xy: 1018, 96
+  size: 126, 291
+  orig: 130, 295
+  offset: 2, 3
+  index: -1
+PERFUME_PUFF
+  rotate: true
+  xy: 2939, 134
+  size: 123, 134
+  orig: 125, 136
+  offset: 1, 1
+  index: -1
+PIPE
+  rotate: false
+  xy: 2, 224
+  size: 2436, 33
+  orig: 2438, 35
+  offset: 1, 1
+  index: -1

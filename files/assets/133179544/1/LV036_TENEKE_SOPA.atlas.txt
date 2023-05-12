@@ -1,0 +1,223 @@
+
+LV036_TENEKE_SOPA.png
+size: 1691,1040
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DEMIR
+  rotate: false
+  xy: 755, 520
+  size: 882, 52
+  orig: 884, 54
+  offset: 1, 1
+  index: -1
+F_BODY
+  rotate: true
+  xy: 2, 10
+  size: 211, 617
+  orig: 213, 619
+  offset: 1, 1
+  index: -1
+F_EYE
+  rotate: true
+  xy: 1516, 43
+  size: 68, 27
+  orig: 70, 29
+  offset: 1, 1
+  index: -1
+F_EYEBROWN_1
+  rotate: false
+  xy: 1338, 11
+  size: 80, 27
+  orig: 82, 29
+  offset: 1, 1
+  index: -1
+F_EYEBROWN_2
+  rotate: false
+  xy: 1420, 8
+  size: 76, 30
+  orig: 78, 33
+  offset: 1, 2
+  index: -1
+F_EYE_1
+  rotate: true
+  xy: 1620, 296
+  size: 107, 69
+  orig: 107, 69
+  offset: 0, 0
+  index: -1
+F_EYE_2
+  rotate: true
+  xy: 1615, 801
+  size: 117, 69
+  orig: 117, 69
+  offset: 0, 0
+  index: -1
+F_EYE_4
+  rotate: true
+  xy: 1615, 682
+  size: 117, 69
+  orig: 117, 69
+  offset: 0, 0
+  index: -1
+F_EYE_5
+  rotate: true
+  xy: 1615, 920
+  size: 118, 69
+  orig: 118, 69
+  offset: 0, 0
+  index: -1
+F_EYE_6
+  rotate: true
+  xy: 1620, 405
+  size: 113, 67
+  orig: 115, 69
+  offset: 1, 1
+  index: -1
+F_HEAD
+  rotate: true
+  xy: 1093, 8
+  size: 209, 243
+  orig: 244, 266
+  offset: 1, 1
+  index: -1
+F_HEAD_2
+  rotate: false
+  xy: 1338, 40
+  size: 176, 177
+  orig: 178, 183
+  offset: 1, 5
+  index: -1
+F_MOUTH_2
+  rotate: false
+  xy: 1516, 113
+  size: 55, 48
+  orig: 57, 54
+  offset: 1, 1
+  index: -1
+F_MOUTH_3
+  rotate: true
+  xy: 1639, 536
+  size: 49, 38
+  orig: 51, 44
+  offset: 1, 1
+  index: -1
+F_NOSE
+  rotate: false
+  xy: 1598, 119
+  size: 24, 38
+  orig: 26, 40
+  offset: 1, 1
+  index: -1
+KUVET
+  rotate: false
+  xy: 755, 574
+  size: 858, 464
+  orig: 860, 466
+  offset: 1, 1
+  index: -1
+M_BODY
+  rotate: true
+  xy: 755, 282
+  size: 236, 669
+  orig: 238, 671
+  offset: 1, 1
+  index: -1
+M_EYE_1
+  rotate: false
+  xy: 1519, 224
+  size: 90, 68
+  orig: 92, 70
+  offset: 1, 1
+  index: -1
+M_EYE_2
+  rotate: true
+  xy: 1587, 159
+  size: 63, 22
+  orig: 65, 24
+  offset: 1, 1
+  index: -1
+M_EYE_3
+  rotate: true
+  xy: 1615, 587
+  size: 93, 68
+  orig: 98, 70
+  offset: 1, 1
+  index: -1
+M_EYE_4
+  rotate: false
+  xy: 1426, 224
+  size: 91, 68
+  orig: 93, 70
+  offset: 1, 1
+  index: -1
+M_HEAD
+  rotate: false
+  xy: 1426, 294
+  size: 192, 224
+  orig: 195, 231
+  offset: 1, 6
+  index: -1
+M_LEFT_EYEBROW
+  rotate: true
+  xy: 1573, 109
+  size: 48, 23
+  orig: 50, 25
+  offset: 1, 1
+  index: -1
+M_MOUTH_1
+  rotate: false
+  xy: 1573, 65
+  size: 29, 42
+  orig: 29, 42
+  offset: 0, 0
+  index: -1
+M_MOUTH_2
+  rotate: false
+  xy: 1516, 2
+  size: 51, 39
+  orig: 51, 39
+  offset: 0, 0
+  index: -1
+M_MOUTH_3
+  rotate: false
+  xy: 1516, 163
+  size: 69, 59
+  orig: 69, 59
+  offset: 0, 0
+  index: -1
+M_NOSE
+  rotate: false
+  xy: 1545, 51
+  size: 26, 60
+  orig: 28, 62
+  offset: 1, 1
+  index: -1
+M_RIGHT_EYEBROW
+  rotate: false
+  xy: 1573, 39
+  size: 33, 24
+  orig: 35, 26
+  offset: 1, 1
+  index: -1
+PERDE
+  rotate: false
+  xy: 2, 223
+  size: 751, 815
+  orig: 753, 817
+  offset: 1, 1
+  index: -1
+PERDE_PARCASI
+  rotate: false
+  xy: 755, 219
+  size: 658, 61
+  orig: 660, 64
+  offset: 1, 2
+  index: -1
+SUPURGE_KOVA
+  rotate: true
+  xy: 621, 10
+  size: 207, 470
+  orig: 209, 590
+  offset: 1, 119
+  index: -1

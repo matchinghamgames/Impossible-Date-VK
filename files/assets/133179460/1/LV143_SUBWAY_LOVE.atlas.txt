@@ -1,0 +1,328 @@
+
+LV143_SUBWAY_LOVE.png
+size: 3094,1210
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 2, 198
+  size: 2345, 1010
+  orig: 2345, 1012
+  offset: 0, 1
+  index: -1
+F_BODY
+  rotate: false
+  xy: 2607, 835
+  size: 142, 373
+  orig: 144, 375
+  offset: 1, 1
+  index: -1
+F_EYE_1
+  rotate: true
+  xy: 2907, 275
+  size: 111, 72
+  orig: 113, 74
+  offset: 1, 1
+  index: -1
+F_EYE_2
+  rotate: true
+  xy: 2742, 133
+  size: 125, 72
+  orig: 127, 74
+  offset: 1, 1
+  index: -1
+F_EYE_3
+  rotate: false
+  xy: 2816, 2
+  size: 71, 27
+  orig: 73, 29
+  offset: 1, 1
+  index: -1
+F_EYE_4
+  rotate: true
+  xy: 2816, 155
+  size: 125, 72
+  orig: 127, 74
+  offset: 1, 1
+  index: -1
+F_EYE_5
+  rotate: true
+  xy: 2742, 6
+  size: 125, 72
+  orig: 127, 74
+  offset: 1, 1
+  index: -1
+F_EYE_6
+  rotate: true
+  xy: 2816, 31
+  size: 122, 72
+  orig: 124, 74
+  offset: 1, 1
+  index: -1
+F_HAND_1
+  rotate: false
+  xy: 2981, 303
+  size: 61, 84
+  orig: 63, 86
+  offset: 1, 1
+  index: -1
+F_HAND_2
+  rotate: false
+  xy: 3002, 150
+  size: 73, 74
+  orig: 75, 87
+  offset: 1, 1
+  index: -1
+F_HEAD
+  rotate: false
+  xy: 2751, 920
+  size: 223, 288
+  orig: 254, 290
+  offset: 22, 1
+  index: -1
+F_LEFT_ARM
+  rotate: false
+  xy: 2907, 388
+  size: 57, 141
+  orig: 59, 143
+  offset: 1, 1
+  index: -1
+F_LEFT_BROW
+  rotate: false
+  xy: 2545, 457
+  size: 61, 12
+  orig: 63, 14
+  offset: 1, 1
+  index: -1
+F_LEFT_FORE_ARM
+  rotate: true
+  xy: 2976, 876
+  size: 122, 110
+  orig: 124, 128
+  offset: 1, 17
+  index: -1
+F_LEG
+  rotate: false
+  xy: 2349, 798
+  size: 256, 410
+  orig: 259, 412
+  offset: 2, 1
+  index: -1
+F_MOUTH_1
+  rotate: false
+  xy: 3041, 827
+  size: 47, 47
+  orig: 49, 49
+  offset: 1, 1
+  index: -1
+F_MOUTH_2
+  rotate: false
+  xy: 3000, 92
+  size: 63, 56
+  orig: 65, 58
+  offset: 1, 1
+  index: -1
+F_RIGHT_ARM
+  rotate: false
+  xy: 2966, 389
+  size: 56, 140
+  orig: 58, 142
+  offset: 1, 1
+  index: -1
+F_RIGHT_BROW
+  rotate: true
+  xy: 2709, 479
+  size: 27, 11
+  orig: 29, 13
+  offset: 1, 1
+  index: -1
+F_RIGHT_FORE_ARM
+  rotate: true
+  xy: 2890, 150
+  size: 123, 110
+  orig: 125, 128
+  offset: 1, 16
+  index: -1
+HEART_1
+  rotate: true
+  xy: 2976, 1074
+  size: 134, 116
+  orig: 138, 118
+  offset: 1, 1
+  index: -1
+HEART_2
+  rotate: true
+  xy: 2983, 534
+  size: 84, 68
+  orig: 90, 70
+  offset: 1, 1
+  index: -1
+HEART_3
+  rotate: false
+  xy: 3024, 474
+  size: 68, 58
+  orig: 73, 60
+  offset: 1, 1
+  index: -1
+M_BODY
+  rotate: false
+  xy: 2349, 426
+  size: 194, 370
+  orig: 198, 386
+  offset: 1, 15
+  index: -1
+M_EYES
+  rotate: false
+  xy: 2607, 803
+  size: 75, 30
+  orig: 77, 32
+  offset: 1, 1
+  index: -1
+M_EYES_CLOSED
+  rotate: false
+  xy: 2873, 531
+  size: 108, 79
+  orig: 110, 86
+  offset: 1, 6
+  index: -1
+M_EYES_MASK
+  rotate: false
+  xy: 2976, 1000
+  size: 116, 72
+  orig: 118, 74
+  offset: 1, 1
+  index: -1
+M_EYES_WHITE
+  rotate: false
+  xy: 2890, 69
+  size: 108, 79
+  orig: 110, 86
+  offset: 1, 6
+  index: -1
+M_HAND_1
+  rotate: false
+  xy: 3002, 226
+  size: 62, 75
+  orig: 64, 77
+  offset: 1, 1
+  index: -1
+M_HAND_5
+  rotate: true
+  xy: 2961, 620
+  size: 75, 104
+  orig: 77, 106
+  offset: 1, 1
+  index: -1
+M_HEAD
+  rotate: true
+  xy: 2349, 216
+  size: 208, 284
+  orig: 210, 286
+  offset: 1, 1
+  index: -1
+M_LEFT_ARM
+  rotate: false
+  xy: 2816, 282
+  size: 89, 224
+  orig: 91, 226
+  offset: 1, 1
+  index: -1
+M_LEFT_BROW
+  rotate: false
+  xy: 2930, 894
+  size: 36, 24
+  orig: 38, 26
+  offset: 1, 1
+  index: -1
+M_LEFT_FORE_ARM
+  rotate: false
+  xy: 2961, 697
+  size: 78, 177
+  orig: 80, 179
+  offset: 1, 1
+  index: -1
+M_LEFT_LEG
+  rotate: false
+  xy: 2545, 471
+  size: 162, 325
+  orig: 164, 327
+  offset: 1, 1
+  index: -1
+M_LEFT_UP_LEG
+  rotate: false
+  xy: 2635, 223
+  size: 88, 246
+  orig: 90, 248
+  offset: 1, 1
+  index: -1
+M_MOUTH_1
+  rotate: false
+  xy: 2890, 11
+  size: 78, 56
+  orig: 80, 58
+  offset: 1, 1
+  index: -1
+M_MOUTH_2
+  rotate: false
+  xy: 3024, 420
+  size: 68, 52
+  orig: 70, 54
+  offset: 1, 1
+  index: -1
+M_RIGHT_ARM
+  rotate: false
+  xy: 2873, 612
+  size: 86, 222
+  orig: 88, 224
+  offset: 1, 1
+  index: -1
+M_RIGHT_BROW
+  rotate: false
+  xy: 3024, 389
+  size: 57, 29
+  orig: 59, 31
+  offset: 1, 1
+  index: -1
+M_RIGHT_FORE_ARM
+  rotate: true
+  xy: 2751, 836
+  size: 82, 177
+  orig: 84, 179
+  offset: 1, 1
+  index: -1
+M_RIGHT_LEG
+  rotate: false
+  xy: 2709, 508
+  size: 162, 325
+  orig: 164, 327
+  offset: 1, 1
+  index: -1
+M_RIGHT_UP_LEG
+  rotate: false
+  xy: 2725, 260
+  size: 89, 246
+  orig: 91, 248
+  offset: 1, 1
+  index: -1
+POLE_2
+  rotate: false
+  xy: 2, 5
+  size: 2618, 191
+  orig: 2618, 194
+  offset: 0, 1
+  index: -1
+ROPE_1
+  rotate: false
+  xy: 2622, 24
+  size: 58, 190
+  orig: 60, 192
+  offset: 1, 1
+  index: -1
+ROPE_2
+  rotate: false
+  xy: 2682, 31
+  size: 58, 190
+  orig: 61, 192
+  offset: 1, 1
+  index: -1

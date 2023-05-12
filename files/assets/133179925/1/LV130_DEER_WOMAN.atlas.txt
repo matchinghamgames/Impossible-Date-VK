@@ -1,0 +1,286 @@
+
+LV130_DEER_WOMAN.png
+size: 3318,724
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+F_EYES
+  rotate: true
+  xy: 2273, 352
+  size: 79, 32
+  orig: 81, 34
+  offset: 1, 1
+  index: -1
+F_EYES_CLOSED
+  rotate: false
+  xy: 2805, 51
+  size: 134, 82
+  orig: 136, 84
+  offset: 1, 1
+  index: -1
+F_EYES_MASK
+  rotate: false
+  xy: 2805, 135
+  size: 140, 82
+  orig: 142, 84
+  offset: 1, 1
+  index: -1
+F_EYES_MASK_2
+  rotate: false
+  xy: 2653, 50
+  size: 140, 82
+  orig: 142, 84
+  offset: 1, 1
+  index: -1
+F_EYES_WHITE
+  rotate: false
+  xy: 3066, 80
+  size: 147, 82
+  orig: 149, 84
+  offset: 1, 1
+  index: -1
+F_HAIR_BG
+  rotate: true
+  xy: 1548, 300
+  size: 422, 723
+  orig: 424, 725
+  offset: 1, 1
+  index: -1
+F_HEAD
+  rotate: true
+  xy: 1964, 7
+  size: 291, 342
+  orig: 310, 344
+  offset: 1, 1
+  index: -1
+F_LEFT_BROW
+  rotate: true
+  xy: 2665, 258
+  size: 30, 14
+  orig: 32, 16
+  offset: 1, 1
+  index: -1
+F_MOUTH
+  rotate: true
+  xy: 3257, 665
+  size: 57, 59
+  orig: 59, 61
+  offset: 1, 1
+  index: -1
+F_NOSE
+  rotate: false
+  xy: 2273, 300
+  size: 32, 50
+  orig: 34, 53
+  offset: 1, 1
+  index: -1
+F_RIGHT_BROW
+  rotate: false
+  xy: 1548, 2
+  size: 74, 20
+  orig: 79, 22
+  offset: 4, 1
+  index: -1
+GERCEK_ASK_LEVEL
+  rotate: false
+  xy: 2947, 124
+  size: 117, 108
+  orig: 122, 131
+  offset: 0, 13
+  index: -1
+GRASS_1
+  rotate: false
+  xy: 2308, 290
+  size: 378, 141
+  orig: 380, 143
+  offset: 1, 1
+  index: -1
+GRASS_2
+  rotate: false
+  xy: 2308, 21
+  size: 271, 102
+  orig: 273, 104
+  offset: 1, 1
+  index: -1
+GRASS_3
+  rotate: false
+  xy: 2, 2
+  size: 1544, 720
+  orig: 1546, 755
+  offset: 1, 34
+  index: -1
+M2_BODY
+  rotate: true
+  xy: 2273, 433
+  size: 289, 762
+  orig: 291, 765
+  offset: 1, 2
+  index: -1
+M2_EYES
+  rotate: true
+  xy: 2640, 223
+  size: 65, 23
+  orig: 67, 25
+  offset: 1, 1
+  index: -1
+M2_EYES_CLOSED
+  rotate: true
+  xy: 3232, 245
+  size: 95, 71
+  orig: 97, 73
+  offset: 1, 1
+  index: -1
+M2_EYES_HEART
+  rotate: true
+  xy: 3257, 563
+  size: 100, 45
+  orig: 103, 48
+  offset: 1, 2
+  index: -1
+M2_EYES_MASK_2
+  rotate: true
+  xy: 2581, 18
+  size: 105, 70
+  orig: 105, 70
+  offset: 0, 0
+  index: -1
+M_EYES_MASK_2
+  rotate: true
+  xy: 2581, 18
+  size: 105, 70
+  orig: 105, 70
+  offset: 0, 0
+  index: -1
+M2_EYES_WHITE
+  rotate: false
+  xy: 3161, 7
+  size: 95, 71
+  orig: 97, 73
+  offset: 1, 1
+  index: -1
+M2_HEAD
+  rotate: true
+  xy: 2688, 219
+  size: 212, 254
+  orig: 214, 256
+  offset: 1, 1
+  index: -1
+M2_LEFT_EYEBROW
+  rotate: false
+  xy: 2653, 22
+  size: 47, 26
+  orig: 49, 28
+  offset: 1, 1
+  index: -1
+M2_MOUTH_1
+  rotate: true
+  xy: 3257, 378
+  size: 69, 49
+  orig: 69, 49
+  offset: 0, 0
+  index: -1
+M2_MOUTH_2
+  rotate: true
+  xy: 3215, 91
+  size: 71, 62
+  orig: 71, 62
+  offset: 0, 0
+  index: -1
+M2_MOUTH_3
+  rotate: false
+  xy: 1624, 4
+  size: 52, 18
+  orig: 52, 18
+  offset: 0, 0
+  index: -1
+M2_RIGHT_EYEBROW
+  rotate: false
+  xy: 3257, 346
+  size: 37, 30
+  orig: 39, 32
+  offset: 1, 1
+  index: -1
+M_BODY
+  rotate: true
+  xy: 2308, 125
+  size: 163, 330
+  orig: 165, 332
+  offset: 1, 1
+  index: -1
+M_EYES_MASK
+  rotate: false
+  xy: 3054, 13
+  size: 105, 65
+  orig: 105, 65
+  offset: 0, 0
+  index: -1
+M_EYES_MASK s
+  rotate: false
+  xy: 3054, 13
+  size: 105, 65
+  orig: 105, 65
+  offset: 0, 0
+  index: -1
+M_HAND_1
+  rotate: false
+  xy: 3257, 449
+  size: 58, 71
+  orig: 61, 74
+  offset: 1, 1
+  index: -1
+M_HAND_2
+  rotate: false
+  xy: 2941, 50
+  size: 111, 72
+  orig: 111, 72
+  offset: 0, 0
+  index: -1
+M_LEFT_ARM
+  rotate: true
+  xy: 3033, 244
+  size: 96, 197
+  orig: 96, 197
+  offset: 0, 0
+  index: -1
+M_LEFT_FORE_ARM
+  rotate: false
+  xy: 2640, 134
+  size: 163, 83
+  orig: 163, 83
+  offset: 0, 0
+  index: -1
+M_LEG
+  rotate: false
+  xy: 1548, 24
+  size: 414, 274
+  orig: 550, 354
+  offset: 133, 60
+  index: -1
+M_RIGHT_ARM
+  rotate: false
+  xy: 2944, 234
+  size: 87, 197
+  orig: 89, 199
+  offset: 1, 1
+  index: -1
+M_RIGHT_FORE_ARM
+  rotate: false
+  xy: 3066, 164
+  size: 158, 78
+  orig: 162, 81
+  offset: 2, 1
+  index: -1
+WEAPON
+  rotate: true
+  xy: 3037, 342
+  size: 380, 218
+  orig: 384, 220
+  offset: 2, 1
+  index: -1
+WEAPON_MASK
+  rotate: true
+  xy: 3257, 522
+  size: 39, 59
+  orig: 41, 61
+  offset: 1, 1
+  index: -1

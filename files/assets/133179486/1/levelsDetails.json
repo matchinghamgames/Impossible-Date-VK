@@ -1,0 +1,506 @@
+{
+  "levelsDetails": [
+    {
+      "Objective": "Reveal the surprise",
+      "WinText": "Thank you! He deserved it.",
+      "HintText": "Open the toilet seat."
+    },
+    {
+      "Objective": "Expose the cheater",
+      "WinText": "He thought he could hide it, but you have magic hands.",
+      "HintText": "Erase the scarf."
+    },
+    {
+      "Objective": "Get her warm",
+      "WinText": "You taught him how to be a real gentleman.",
+      "HintText": "Drag his coat to her."
+    },
+    {
+      "Objective": "Reveal the cheater",
+      "WinText": "Nice! Thanks to you, she can trust him now.",
+      "HintText": "Erase the curtain."
+    },
+    {
+      "Objective": "Get them together",
+      "WinText": "Brilliant idea! You are a love expert.",
+      "HintText": "Switch on the A/C."
+    },
+    {
+      "Objective": "\"Historical\" moment",
+      "WinText": "Do you know a good brand of wax?",
+      "HintText": "Switch on the fan."
+    },
+    {
+      "Objective": "Ruin the wedding",
+      "WinText": "You saved the bride. What a careless man!",
+      "HintText": "Switch on the projector."
+    },
+    {
+      "Objective": "Get them together",
+      "WinText": "With your touch, the button turns into a love button.",
+      "HintText": "Stop the train."
+    },
+    {
+      "Objective": "Ruin the proposal",
+      "WinText": "You showed her at the last moment what real attraction is.",
+      "HintText": "Erase the bushes."
+    },
+    {
+      "Objective": "Test his strength",
+      "WinText": "You showed him that it's not easy to carry a woman.",
+      "HintText": "Make the woman eat."
+    },
+    {
+      "Objective": "Ruin the park trip",
+      "WinText": "He thought he could hold a stranger's hand.",
+      "HintText": "Make him touch the p**p."
+    },
+    {
+      "Objective": "Feed him",
+      "WinText": "You can't eat that much on the first date, man.",
+      "HintText": "Feed him"
+    },
+    {
+      "Objective": "Save the park date",
+      "WinText": "You ruined a bench but got them together.",
+      "HintText": "Brake the chair's leg."
+    },
+    {
+      "Objective": "Confuse her",
+      "WinText": "You are excellent at spotting sinners.",
+      "HintText": "Erase father's clothes."
+    },
+    {
+      "Objective": "Ruin the show-off",
+      "WinText": "You showed her what real strength is.",
+      "HintText": "Erase the weight."
+    },
+    {
+      "Objective": "Ruin the proposal",
+      "WinText": "Girl, please! The ring was way more expensive.",
+      "HintText": "Erase the paper."
+    },
+    {
+      "Objective": "Get rid of the smell",
+      "WinText": "Nice choice! Smells like love is in the air.",
+      "HintText": "Use the parfume."
+    },
+    {
+      "Objective": "Save the date night",
+      "WinText": "Are you a fashion expert?",
+      "HintText": "Put the blue dress on."
+    },
+    {
+      "Objective": "Cold-blooded cheating",
+      "WinText": "You found a cheater and a killer.",
+      "HintText": "Erase the door."
+    },
+    {
+      "Objective": "Clean her up",
+      "WinText": "You made him see her inner beauty.",
+      "HintText": "Erase the mud."
+    },
+    {
+      "Objective": "Show him true love",
+      "WinText": "You opened his eyes in a naughty way.",
+      "HintText": "Open his eyes."
+    },
+    {
+      "Objective": "Ruin the show-off",
+      "WinText": "Whoa! What did you just do? Can you do that to my belly fat?",
+      "HintText": "Cactus the man."
+    },
+    {
+      "Objective": "Send her back home",
+      "WinText": "Love literally makes her fly. You're a magician.",
+      "HintText": "Give him a energy drink."
+    },
+    {
+      "Objective": "Gender reveal",
+      "WinText": "Can you lend me that device? I want to try something.",
+      "HintText": "X-ray to woman's belly."
+    },
+    {
+      "Objective": "Ruin their meal",
+      "WinText": "Oops! She doesn't like fish, apparently.",
+      "HintText": "Give her bad food."
+    },
+    {
+      "Objective": "Museum of love",
+      "WinText": "Wow! You brought the love to life.",
+      "HintText": "Erase the bandage."
+    },
+    {
+      "Objective": "Ruin the flirting",
+      "WinText": "She was expecting to see a pole dance performance.",
+      "HintText": "Erase the pillar."
+    },
+    {
+      "Objective": "Prepare her",
+      "WinText": "Who is the cheater now? Him or her? You decide.",
+      "HintText": "Use the rope."
+    },
+    {
+      "Objective": "It's just a rat",
+      "WinText": "An interesting test to choose the right man.",
+      "HintText": "Erase the cover."
+    },
+    {
+      "Objective": "Hardest exercise",
+      "WinText": "You ended his pointless bragging.",
+      "HintText": "hint?"
+    },
+    {
+      "Objective": "Ruin the workout",
+      "WinText": "I wonder what would've happened with hot sauce...",
+      "HintText": "Put some medicine to her coffee."
+    },
+    {
+      "Objective": "Reveal the baby",
+      "WinText": "Oops! You popped his hopes.",
+      "HintText": "Stick a needle in her belly."
+    },
+    {
+      "Objective": "Ruin the wedding",
+      "WinText": "You would make a great wedding planner.",
+      "HintText": "Make her step the banana peel"
+    },
+    {
+      "Objective": "Make it rain",
+      "WinText": "It's not your fault. He should've found a better place for a date.",
+      "HintText": "Brake the pipe with a tool."
+    },
+    {
+      "Objective": "Give them a wedding gift",
+      "WinText": "You didn't like the white dress? Brown is a nice touch.",
+      "HintText": "Put some medicine to her drink."
+    },
+    {
+      "Objective": "Leave her alone",
+      "WinText": "He'll save fuel, thanks to you.",
+      "HintText": "Brake the connector."
+    },
+    {
+      "Objective": "Stop the nose picker",
+      "WinText": "You showed her his funny side.",
+      "HintText": "Touch the menu."
+    },
+    {
+      "Objective": "Find his secret",
+      "WinText": "Such a creative cheater, but he can't fool you.",
+      "HintText": "Clear the leaves."
+    },
+    {
+      "Objective": "Hunting season",
+      "WinText": "The hunter is hunted by love.",
+      "HintText": "Erase the bushes."
+    },
+    {
+      "Objective": "Ghost lover",
+      "WinText": "Hi there, ghostbuster. I need a ghost like him.",
+      "HintText": "Erase the cover."
+    },
+    {
+      "Objective": "Ruin the dinner",
+      "WinText": "Hot hot hot!",
+      "HintText": "Increase the temperature."
+    },
+    {
+      "Objective": "Bust their date",
+      "WinText": "Good boy! You revealed cheaters.",
+      "HintText": "Make the dog open the door."
+    },
+    {
+      "Objective": "Make her happier",
+      "WinText": "Look what happiness does to a woman.",
+      "HintText": "Give her all balloons."
+    },
+    {
+      "Objective": "Party was a bomb",
+      "WinText": "Nice prank. You're not invited to my birthday party.",
+      "HintText": "Switch candles with dynamites."
+    },
+    {
+      "Objective": "Ruin their moment",
+      "WinText": "She doesn't understand good music.",
+      "HintText": "Brake the wood."
+    },
+    {
+      "Objective": "Help the parents",
+      "WinText": "Do you think kids are the end of love? The end of sleep, for sure.",
+      "HintText": "Move the baby."
+    },
+    {
+      "Objective": "Impress her",
+      "WinText": "Money opens every heart and you know it.",
+      "HintText": "Coins to box."
+    },
+    {
+      "Objective": "Romantic weather",
+      "WinText": "You gave them a gift from the sky.",
+      "HintText": "Put the pieces together."
+    },
+    {
+      "Objective": "Cause him to fall",
+      "WinText": "You made public transport interesting.",
+      "HintText": "Erase the handle."
+    },
+    {
+      "Objective": "Get rid of distractions",
+      "WinText": "Technology is the death of love, you know.",
+      "HintText": "Erase the tablet."
+    }
+  ],
+  "levelsDetailsRussian": [
+    {
+      "Objective": "Найди сюрприз",
+      "WinText": "Спасибо! Он это заслужил.",
+      "HintText": "Подними крышку унитаза."
+    },
+    {
+      "Objective": "Раскрой измену",
+      "WinText": "Он хотел спрятаться, но у тебя волшебные руки!",
+      "HintText": "Сотри шарф."
+    },
+    {
+      "Objective": "Помоги ей согреться",
+      "WinText": "Ему преподали урок джентльменских манер!",
+      "HintText": "Перетащи его куртку на нее."
+    },
+    {
+      "Objective": "Раскрой измену",
+      "WinText": "Отлично! Теперь она будет ему доверять.",
+      "HintText": "Сотри штору."
+    },
+    {
+      "Objective": "Помоги им сблизиться",
+      "WinText": "Отличная мысль! Ты гуру в любовных делах.",
+      "HintText": "Включи кондиционер."
+    },
+    {
+      "Objective": "Исторический момент",
+      "WinText": "Не посоветуешь производителя воска?",
+      "HintText": "Включи вентилятор."
+    },
+    {
+      "Objective": "Испорти свадьбу",
+      "WinText": "Невеста спасена. Какой неосторожный жених!",
+      "HintText": "Включи прожектор."
+    },
+    {
+      "Objective": "Помоги им сблизиться",
+      "WinText": "В твоих руках кнопка превращается в приворотное зелье.",
+      "HintText": "Останови поезд."
+    },
+    {
+      "Objective": "Испорти помолвку",
+      "WinText": "В последний момент она узнала силу истинной привлекательности.",
+      "HintText": "Сотри кусты."
+    },
+    {
+      "Objective": "Проверь его силу",
+      "WinText": "Оказалось, женщину нести не так-то просто!",
+      "HintText": "Накорми женщину."
+    },
+    {
+      "Objective": "Испорти поход в парк",
+      "WinText": "А он-то хотел дотронуться до незнакомки.",
+      "HintText": "Положи его руку на какашку."
+    },
+    {
+      "Objective": "Накорми его",
+      "WinText": "На первом свидании не стоит так объедаться.",
+      "HintText": "Накорми его."
+    },
+    {
+      "Objective": "Испорти свидание в парке",
+      "WinText": "Скамейка сломана, зато эти двое теперь вместе.",
+      "HintText": "Сломай ножку скамейки."
+    },
+    {
+      "Objective": "Запутай ее",
+      "WinText": "У тебя на грешников глаз наметан.",
+      "HintText": "Сотри облачение священника."
+    },
+    {
+      "Objective": "Проучи позера",
+      "WinText": "Теперь она знает, что такое сила!",
+      "HintText": "Сотри часть гири."
+    },
+    {
+      "Objective": "Испорти помолвку",
+      "WinText": "Да ладно! Кольцо было намного дороже.",
+      "HintText": "Сотри бумагу."
+    },
+    {
+      "Objective": "Избавься от запаха",
+      "WinText": "Хороший выбор! И сразу повеяло любовью.",
+      "HintText": "Используй духи."
+    },
+    {
+      "Objective": "Спаси свидание",
+      "WinText": "Ты разбираешься в моде?",
+      "HintText": "Надень синее платье."
+    },
+    {
+      "Objective": "Хладнокровная измена",
+      "WinText": "Он не только изменщик, но и убийца!",
+      "HintText": "Сотри дверь."
+    },
+    {
+      "Objective": "Отряхни ее",
+      "WinText": "YОн увидел ее внутреннюю красоту.",
+      "HintText": "Сотри грязь."
+    },
+    {
+      "Objective": "Открой ему настоящую любовь",
+      "WinText": "Теперь его глаза открыты, только вышло некрасиво.",
+      "HintText": "Открой ему глаза."
+    },
+    {
+      "Objective": "Проучи позера",
+      "WinText": "Ого! Как это вышло? Можно такой фокус проделать с моим брюшком?",
+      "HintText": "Уколи его кактусом."
+    },
+    {
+      "Objective": "Отправь ее домой",
+      "WinText": "Вот это магия! Она буквально взлетела от любви.",
+      "HintText": "Дай ему энергетик."
+    },
+    {
+      "Objective": "Определи пол",
+      "WinText": "Можно мне такое устройство? Я знаю, на ком его опробовать.",
+      "HintText": "Просканируй живот женщины."
+    },
+    {
+      "Objective": "Испорти ужин",
+      "WinText": "Ой! Похоже, рыба ей не по вкусу.",
+      "HintText": "Дай ей протухшую еду."
+    },
+    {
+      "Objective": "Музей любви",
+      "WinText": "Ого! В этом зале ожила любовь.",
+      "HintText": "Сотри бинты."
+    },
+    {
+      "Objective": "Испорти флирт",
+      "WinText": "Она надеялась увидеть танец с шестом.",
+      "HintText": "Сотри опору."
+    },
+    {
+      "Objective": "Помоги ей собраться",
+      "WinText": "И кто же обманщик? Он или она? Решать тебе.",
+      "HintText": "Используй веревку."
+    },
+    {
+      "Objective": "Всего лишь мышка",
+      "WinText": "Любопытный способ проверить избранника.",
+      "HintText": "Сотри ткань."
+    },
+    {
+      "Objective": "Тяжелейшее упражнение",
+      "WinText": "Меньше будет рисоваться.",
+      "HintText": "совет?"
+    },
+    {
+      "Objective": "Испорти тренировку",
+      "WinText": "Интересно, как бы подействовал острый соус...",
+      "HintText": "Добавь в ее кофе лекарство."
+    },
+    {
+      "Objective": "Покажи ребенка",
+      "WinText": "Ну вот! Надежды лопнули.",
+      "HintText": "Уколи ее в живот."
+    },
+    {
+      "Objective": "Испорти свадьбу",
+      "WinText": "Из тебя выйдет отличный организатор свадеб.",
+      "HintText": "Подложи ей под ноги кожуру."
+    },
+    {
+      "Objective": "Да будет дождь",
+      "WinText": "Он сам виноват. Надо лучше выбирать места для свиданий!",
+      "HintText": "Сломай трубу инструментом."
+    },
+    {
+      "Objective": "Подари им свадебный подарок",
+      "WinText": "Белое платье не понравилось? Зато коричневый ей к лицу.",
+      "HintText": "Добавь в ее напиток лекарство."
+    },
+    {
+      "Objective": "Оставь ее одну",
+      "WinText": "И расход бензина меньше!",
+      "HintText": "Сломай сцепку."
+    },
+    {
+      "Objective": "Помешай ему ковыряться в носу",
+      "WinText": "Она увидела его с неприглядной стороны.",
+      "HintText": "Дотронься до меню."
+    },
+    {
+      "Objective": "Раскрой его секрет",
+      "WinText": "Он изобретательный, но тебя не проведешь.",
+      "HintText": "Убери листья."
+    },
+    {
+      "Objective": "Сезон охоты",
+      "WinText": "Охотник поддался инстинкту любви.",
+      "HintText": "Сотри кусты."
+    },
+    {
+      "Objective": "Призрачный избранник",
+      "WinText": "Удачная охота за привидением! А я вот не откажусь от такого призрака.",
+      "HintText": "Сотри покрывало."
+    },
+    {
+      "Objective": "Испорти ужин",
+      "WinText": "Ай, горячо, горячо!",
+      "HintText": "Увеличь температуру."
+    },
+    {
+      "Objective": "Испорти свидание",
+      "WinText": "Хороший песик! Измена раскрыта.",
+      "HintText": "Сделай так, чтобы пес открыл дверь."
+    },
+    {
+      "Objective": "Порадуй ее",
+      "WinText": "Смотри, что бывает от счастья!",
+      "HintText": "Отдай ей все шарики."
+    },
+    {
+      "Objective": "Бомбическая вечеринка",
+      "WinText": "Классный розыгрыш. Но на мой день рождения не приходи.",
+      "HintText": "Поменяй свечи на динамит."
+    },
+    {
+      "Objective": "Испорти момент",
+      "WinText": "Она просто не разбирается в музыке.",
+      "HintText": "Сломай подпорку."
+    },
+    {
+      "Objective": "Помоги родителям",
+      "WinText": "С детьми уже не до любви? Во всяком случае не до сна.",
+      "HintText": "Перемести ребенка."
+    },
+    {
+      "Objective": "Произведи на нее впечатление",
+      "WinText": "Деньги открывают путь к любому сердцу, не отрицай.",
+      "HintText": "Перемести монеты в коробку."
+    },
+    {
+      "Objective": "Романтичная погода",
+      "WinText": "Это подарок небес! И все благодаря тебе.",
+      "HintText": "Соедини фрагменты."
+    },
+    {
+      "Objective": "Заставь его упасть",
+      "WinText": "С тобой в общественном транспорте веселее.",
+      "HintText": "Сотри поручень."
+    },
+    {
+      "Objective": "Убери помеху",
+      "WinText": "Техника убивает любовь, знаешь ли.",
+      "HintText": "Сотри планшет."
+    }
+  ]
+}

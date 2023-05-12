@@ -1,0 +1,391 @@
+
+LV015_KANALIZASYON.png
+size: 4065,1914
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FLY_1
+  rotate: true
+  xy: 3997, 1087
+  size: 55, 48
+  orig: 57, 50
+  offset: 1, 1
+  index: -1
+FLY_2
+  rotate: false
+  xy: 3997, 1030
+  size: 46, 55
+  orig: 49, 58
+  offset: 2, 2
+  index: -1
+F_BODY
+  rotate: false
+  xy: 2088, 118
+  size: 334, 936
+  orig: 336, 938
+  offset: 1, 1
+  index: -1
+F_DISGUSTED
+  rotate: true
+  xy: 2699, 230
+  size: 334, 936
+  orig: 336, 938
+  offset: 1, 1
+  index: -1
+F_RUNING_POSE
+  rotate: true
+  xy: 2, 1282
+  size: 630, 914
+  orig: 886, 916
+  offset: 52, 1
+  index: -1
+F_SUPRISED
+  rotate: true
+  xy: 895, 447
+  size: 334, 936
+  orig: 336, 938
+  offset: 1, 1
+  index: -1
+HEART_1
+  rotate: true
+  xy: 3970, 311
+  size: 77, 68
+  orig: 79, 70
+  offset: 1, 1
+  index: -1
+HEART_2
+  rotate: false
+  xy: 2251, 1306
+  size: 105, 96
+  orig: 107, 98
+  offset: 1, 1
+  index: -1
+HEART_3
+  rotate: true
+  xy: 3997, 1198
+  size: 58, 54
+  orig: 60, 56
+  offset: 1, 1
+  index: -1
+M
+  rotate: true
+  xy: 2709, 566
+  size: 348, 996
+  orig: 350, 999
+  offset: 1, 2
+  index: -1
+M_BODY_1
+  rotate: true
+  xy: 2, 448
+  size: 251, 800
+  orig: 253, 803
+  offset: 1, 2
+  index: -1
+M_BODY_2
+  rotate: true
+  xy: 1524, 1601
+  size: 311, 800
+  orig: 313, 803
+  offset: 1, 2
+  index: -1
+M_BODY_DIRTY_2
+  rotate: false
+  xy: 2709, 916
+  size: 354, 996
+  orig: 357, 999
+  offset: 2, 2
+  index: -1
+M_DIRTY
+  rotate: true
+  xy: 3065, 1558
+  size: 354, 980
+  orig: 357, 983
+  offset: 2, 2
+  index: -1
+M_EYE
+  rotate: false
+  xy: 2173, 1301
+  size: 74, 23
+  orig: 76, 25
+  offset: 1, 1
+  index: -1
+M_EYELID_1
+  rotate: true
+  xy: 2358, 1284
+  size: 118, 72
+  orig: 120, 74
+  offset: 1, 1
+  index: -1
+M_EYELID_2
+  rotate: true
+  xy: 2326, 1804
+  size: 108, 82
+  orig: 111, 85
+  offset: 2, 2
+  index: -1
+M_EYE_WHITE
+  rotate: true
+  xy: 3970, 390
+  size: 108, 82
+  orig: 111, 85
+  offset: 2, 2
+  index: -1
+M_FLOWER
+  rotate: true
+  xy: 1495, 44
+  size: 248, 293
+  orig: 250, 295
+  offset: 1, 1
+  index: -1
+M_HAIR
+  rotate: false
+  xy: 2424, 2
+  size: 233, 162
+  orig: 235, 164
+  offset: 1, 1
+  index: -1
+M_HAIR_BEHIND
+  rotate: false
+  xy: 2251, 1404
+  size: 171, 195
+  orig: 173, 199
+  offset: 1, 1
+  index: -1
+M_HEAD
+  rotate: true
+  xy: 2699, 27
+  size: 201, 254
+  orig: 203, 256
+  offset: 1, 1
+  index: -1
+M_LEFT_BROWN
+  rotate: false
+  xy: 2117, 1300
+  size: 54, 24
+  orig: 56, 26
+  offset: 1, 1
+  index: -1
+M_LEFT_HAND
+  rotate: true
+  xy: 2361, 1639
+  size: 79, 68
+  orig: 82, 78
+  offset: 2, 1
+  index: -1
+M_LEFT_MOVING_ARM_1
+  rotate: true
+  xy: 448, 702
+  size: 352, 445
+  orig: 355, 453
+  offset: 2, 5
+  index: -1
+M_LEFT_MOVING_ARM_2
+  rotate: true
+  xy: 2, 94
+  size: 352, 444
+  orig: 355, 453
+  offset: 2, 4
+  index: -1
+M_LEFT_MOVING_ARM_3
+  rotate: false
+  xy: 1975, 1326
+  size: 274, 273
+  orig: 276, 275
+  offset: 1, 1
+  index: -1
+M_LEFT_MOVING_ARM_4
+  rotate: true
+  xy: 2424, 442
+  size: 274, 273
+  orig: 276, 276
+  offset: 1, 1
+  index: -1
+M_MOUTH_1
+  rotate: true
+  xy: 2361, 1720
+  size: 82, 70
+  orig: 84, 73
+  offset: 1, 1
+  index: -1
+M_MOUTH_2
+  rotate: true
+  xy: 3997, 1258
+  size: 72, 55
+  orig: 78, 57
+  offset: 5, 1
+  index: -1
+M_MOUTH_3
+  rotate: true
+  xy: 2042, 1289
+  size: 35, 36
+  orig: 38, 38
+  offset: 1, 1
+  index: -1
+M_NOSE
+  rotate: true
+  xy: 1975, 1287
+  size: 37, 65
+  orig: 39, 67
+  offset: 1, 1
+  index: -1
+M_RIGHT_BROWN
+  rotate: true
+  xy: 2080, 1291
+  size: 33, 35
+  orig: 35, 37
+  offset: 1, 1
+  index: -1
+M_RIGHT_MOVING_ARM_1
+  rotate: true
+  xy: 2, 701
+  size: 353, 444
+  orig: 355, 453
+  offset: 1, 4
+  index: -1
+M_RIGHT_MOVING_ARM_2
+  rotate: false
+  xy: 3707, 500
+  size: 353, 445
+  orig: 355, 453
+  offset: 1, 5
+  index: -1
+M_RIGHT_MOVING_ARM_3
+  rotate: true
+  xy: 2424, 166
+  size: 274, 273
+  orig: 276, 275
+  offset: 1, 1
+  index: -1
+M_RIGHT_MOVING_ARM_4
+  rotate: false
+  xy: 832, 172
+  size: 274, 273
+  orig: 276, 276
+  offset: 1, 1
+  index: -1
+SCREW_1
+  rotate: true
+  xy: 3997, 1144
+  size: 52, 51
+  orig: 54, 53
+  offset: 1, 1
+  index: -1
+SEWAGE_01
+  rotate: false
+  xy: 448, 218
+  size: 382, 228
+  orig: 384, 230
+  offset: 1, 1
+  index: -1
+SEWAGE_02
+  rotate: false
+  xy: 3637, 4
+  size: 331, 494
+  orig: 333, 496
+  offset: 1, 1
+  index: -1
+SEWAGE_03
+  rotate: true
+  xy: 895, 783
+  size: 271, 965
+  orig: 273, 967
+  offset: 1, 1
+  index: -1
+SEWAGE_04
+  rotate: false
+  xy: 2440, 718
+  size: 267, 1194
+  orig: 269, 1196
+  offset: 1, 1
+  index: -1
+SEWAGE_05
+  rotate: true
+  xy: 3065, 947
+  size: 383, 930
+  orig: 385, 932
+  offset: 1, 1
+  index: -1
+SEWAGE_06
+  rotate: true
+  xy: 918, 1319
+  size: 593, 604
+  orig: 595, 606
+  offset: 1, 1
+  index: -1
+SEWAGE_07
+  rotate: false
+  xy: 448, 4
+  size: 770, 166
+  orig: 772, 168
+  offset: 1, 1
+  index: -1
+SEWER PIPE
+  rotate: false
+  xy: 2, 1056
+  size: 2436, 224
+  orig: 2438, 226
+  offset: 1, 1
+  index: -1
+SEWER_PIPI_LEFT_PART
+  rotate: true
+  xy: 1862, 106
+  size: 948, 224
+  orig: 950, 226
+  offset: 1, 1
+  index: -1
+SEWER_PIPI_MIDDLE_PART
+  rotate: false
+  xy: 1108, 294
+  size: 575, 151
+  orig: 577, 214
+  offset: 1, 61
+  index: -1
+SEWER_PIPI_RIGHT_PART
+  rotate: false
+  xy: 3065, 1332
+  size: 972, 224
+  orig: 974, 226
+  offset: 1, 1
+  index: -1
+SMELL_1
+  rotate: false
+  xy: 4019, 57
+  size: 44, 252
+  orig: 46, 255
+  offset: 1, 2
+  index: -1
+SMELL_2
+  rotate: false
+  xy: 2326, 1614
+  size: 33, 188
+  orig: 35, 192
+  offset: 1, 2
+  index: -1
+SMELL_3
+  rotate: false
+  xy: 3970, 89
+  size: 47, 220
+  orig: 50, 222
+  offset: 1, 1
+  index: -1
+TOOL_BAG_INSIDE
+  rotate: false
+  xy: 1524, 1285
+  size: 449, 314
+  orig: 451, 316
+  offset: 1, 1
+  index: -1
+TOOL_BAG_MASK
+  rotate: false
+  xy: 2955, 34
+  size: 360, 194
+  orig: 366, 200
+  offset: 3, 3
+  index: -1
+WRENCH
+  rotate: false
+  xy: 1220, 27
+  size: 273, 265
+  orig: 279, 271
+  offset: 3, 3
+  index: -1

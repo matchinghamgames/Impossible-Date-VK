@@ -1,0 +1,272 @@
+
+LV120_HEART_RAIN.png
+size: 1649,1044
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BANK
+  rotate: false
+  xy: 2, 521
+  size: 775, 521
+  orig: 777, 523
+  offset: 1, 1
+  index: -1
+CLOUD_PART_1
+  rotate: false
+  xy: 1417, 423
+  size: 221, 232
+  orig: 223, 235
+  offset: 1, 2
+  index: -1
+CLOUD_PART_2
+  rotate: true
+  xy: 910, 159
+  size: 156, 246
+  orig: 158, 248
+  offset: 1, 1
+  index: -1
+F_BODY
+  rotate: false
+  xy: 1373, 657
+  size: 219, 385
+  orig: 222, 774
+  offset: 1, 388
+  index: -1
+F_EYE_1
+  rotate: false
+  xy: 910, 69
+  size: 154, 88
+  orig: 154, 88
+  offset: 0, 0
+  index: -1
+F_EYE_2
+  rotate: false
+  xy: 1564, 303
+  size: 83, 31
+  orig: 85, 33
+  offset: 1, 1
+  index: -1
+F_EYE_4
+  rotate: false
+  xy: 1158, 6
+  size: 154, 88
+  orig: 154, 88
+  offset: 0, 0
+  index: -1
+F_EYE_5
+  rotate: false
+  xy: 655, 72
+  size: 159, 91
+  orig: 159, 91
+  offset: 0, 0
+  index: -1
+F_EYE_6
+  rotate: true
+  xy: 1066, 9
+  size: 148, 90
+  orig: 148, 90
+  offset: 0, 0
+  index: -1
+F_HEAD
+  rotate: false
+  xy: 1158, 349
+  size: 257, 285
+  orig: 319, 292
+  offset: 1, 1
+  index: -1
+F_LEFT_EYEBROW
+  rotate: true
+  xy: 1594, 786
+  size: 40, 29
+  orig: 42, 32
+  offset: 1, 1
+  index: -1
+F_LEG
+  rotate: false
+  xy: 2, 52
+  size: 278, 467
+  orig: 288, 471
+  offset: 5, 3
+  index: -1
+F_MOUTH_1
+  rotate: false
+  xy: 910, 39
+  size: 56, 28
+  orig: 56, 28
+  offset: 0, 0
+  index: -1
+F_MOUTH_2
+  rotate: true
+  xy: 1594, 888
+  size: 76, 45
+  orig: 76, 45
+  offset: 0, 0
+  index: -1
+F_MOUTH_3
+  rotate: true
+  xy: 1395, 17
+  size: 77, 61
+  orig: 77, 61
+  offset: 0, 0
+  index: -1
+F_NOSE
+  rotate: false
+  xy: 86, 2
+  size: 30, 48
+  orig: 32, 51
+  offset: 1, 1
+  index: -1
+F_RIGHT_EYEBROW
+  rotate: true
+  xy: 1594, 828
+  size: 58, 36
+  orig: 65, 38
+  offset: 3, 1
+  index: -1
+HEART_1
+  rotate: false
+  xy: 779, 521
+  size: 115, 99
+  orig: 118, 101
+  offset: 2, 1
+  index: -1
+HEART_CLOUD
+  rotate: true
+  xy: 910, 317
+  size: 303, 246
+  orig: 305, 249
+  offset: 1, 2
+  index: -1
+M1_BODY
+  rotate: false
+  xy: 1084, 636
+  size: 287, 406
+  orig: 289, 408
+  offset: 1, 1
+  index: -1
+M1_EYE_1
+  rotate: false
+  xy: 1437, 108
+  size: 113, 101
+  orig: 118, 106
+  offset: 3, 3
+  index: -1
+M1_EYE_2
+  rotate: false
+  xy: 2, 7
+  size: 82, 43
+  orig: 84, 45
+  offset: 1, 1
+  index: -1
+M1_EYE_3
+  rotate: true
+  xy: 816, 37
+  size: 126, 92
+  orig: 126, 92
+  offset: 0, 0
+  index: -1
+M1_EYE_4
+  rotate: false
+  xy: 1437, 319
+  size: 125, 102
+  orig: 125, 102
+  offset: 0, 0
+  index: -1
+M1_EYE_5
+  rotate: false
+  xy: 1437, 211
+  size: 118, 106
+  orig: 118, 106
+  offset: 0, 0
+  index: -1
+M1_HEAD
+  rotate: true
+  xy: 1158, 96
+  size: 251, 277
+  orig: 253, 279
+  offset: 1, 1
+  index: -1
+M1_LEFT_EYEBROW
+  rotate: false
+  xy: 738, 38
+  size: 58, 32
+  orig: 63, 37
+  offset: 1, 4
+  index: -1
+M1_LEG
+  rotate: false
+  xy: 282, 134
+  size: 333, 385
+  orig: 443, 388
+  offset: 109, 1
+  index: -1
+M1_MOUTH_1
+  rotate: false
+  xy: 655, 15
+  size: 81, 55
+  orig: 81, 55
+  offset: 0, 0
+  index: -1
+M1_MOUTH_2
+  rotate: false
+  xy: 1314, 8
+  size: 79, 86
+  orig: 79, 86
+  offset: 0, 0
+  index: -1
+M1_MOUTH_3
+  rotate: true
+  xy: 1594, 966
+  size: 76, 52
+  orig: 76, 52
+  offset: 0, 0
+  index: -1
+M1_RIGHT_EYEBROW
+  rotate: false
+  xy: 118, 3
+  size: 41, 47
+  orig: 45, 50
+  offset: 2, 1
+  index: -1
+M2_BODY
+  rotate: false
+  xy: 779, 622
+  size: 303, 420
+  orig: 310, 423
+  offset: 2, 2
+  index: -1
+M2_HAND_1
+  rotate: false
+  xy: 1557, 220
+  size: 77, 81
+  orig: 79, 83
+  offset: 1, 1
+  index: -1
+M2_HAND_2
+  rotate: true
+  xy: 1564, 336
+  size: 85, 77
+  orig: 90, 80
+  offset: 3, 2
+  index: -1
+M2_LEFT_ARM
+  rotate: false
+  xy: 472, 30
+  size: 181, 102
+  orig: 184, 107
+  offset: 2, 3
+  index: -1
+M2_LEG
+  rotate: false
+  xy: 617, 165
+  size: 291, 354
+  orig: 400, 362
+  offset: 1, 1
+  index: -1
+M2_RIGHT_ARM
+  rotate: false
+  xy: 282, 18
+  size: 188, 114
+  orig: 190, 116
+  offset: 1, 1
+  index: -1
