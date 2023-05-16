@@ -8,7 +8,9 @@
                 "locale": "en-US"
             },
             "messages": {
-                "Done": "Done"
+                "Done": "Done",
+                "INVITE" : "INVITE",
+                "SHARE" : "SHARE!"
             }
         },
         {
@@ -16,7 +18,9 @@
                 "locale": "ru-RU"
             },
             "messages": {
-                "Done": "Сделанный"
+                "Done": "Сделанный",
+                "INVITE" : "Приглашать",
+                "SHARE" : "Поделиться!"
             }
         }
     ]
